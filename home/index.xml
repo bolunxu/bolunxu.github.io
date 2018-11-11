@@ -55,10 +55,18 @@ I obtained my PhD in Electrical Engineering from University of Washington, Seatt
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>bolunxu.github.io/home/teaching/</guid>
-      <description>My research develops operation algorithms and market designs towards an economic and reliable transition to a low-carbon energy system.
-Energy Storage Wait to be updated.
-Individuals in the System Wait to be updated.
-System and Market Design Wait to be updated.</description>
+      <description>My research develops operation algorithms and market designs towards an economic and reliable transition to a low-carbon energy system, and I&amp;rsquo;m highly interested in the following topics.
+A Future with Energy Storage Energy storage is the key flexibility resource in a low-carbon energy system, and its business and operation models are keep evolving. Especially, optimally dispatching energy storage at the system level remains an open question. Besides establishing computation-viable cost and operation models for different storage technologies, the system must quantify the value of stored energy during real-time decision makings.</description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>bolunxu.github.io/home/bio/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>bolunxu.github.io/home/bio/</guid>
+      <description> Something about my life.
+Shandong Shanghai Ann Arbor Zurich Beijing Seattle Boston </description>
     </item>
     
     <item>
@@ -76,7 +84,7 @@ System and Market Design Wait to be updated.</description>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>bolunxu.github.io/home/publications_selected/</guid>
-      <description>Please find some of my pulication highlights. I have also attached relavant data and codes for implementation references. These codes come with absolute no warrenty.</description>
+      <description>Please find some of my pulication highlights. I have also attached relavant data and codes for implementation references.</description>
     </item>
     
     <item>
@@ -113,16 +121,6 @@ System and Market Design Wait to be updated.</description>
       
       <guid>bolunxu.github.io/home/posts/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Biography</title>
-      <link>bolunxu.github.io/home/bio/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>bolunxu.github.io/home/bio/</guid>
-      <description> Something about my life.
-Shandong Shanghai Ann Arbor Zurich Beijing Seattle Boston </description>
     </item>
     
     <item>
