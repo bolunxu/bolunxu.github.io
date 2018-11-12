@@ -36,8 +36,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>bolunxu.github.io/home/about/</guid>
-      <description>About me I am a postdoctoral associate at Massachusetts Institute of Technology (MIT), My position is affiliated with MIT Energy Initiative (MITEI) and Lab for Info. and Decision Systems (LIDS), hosted by Dr. Francis O&amp;rsquo;Sullivan and Dr. Audun Botterud.
-I obtained my PhD in Electrical Engineering from University of Washington, Seattle, adviserd by Prof. Daniel Kirschen and Prof. Baosen Zhang. My dissertation is here and my CV is here.</description>
+      <description>About me I am a postdoctoral associate at Massachusetts Institute of Technology (MIT), My position is affiliated with MIT Energy Initiative (MITEI) and Lab for Info. and Decision Systems (LIDS), hosted by Dr. Francis O&amp;rsquo;Sullivan and Dr. Audun Botterud. My CV is here.
+I obtained my PhD in Electrical Engineering from University of Washington, Seattle, advised by Prof. Daniel Kirschen and Prof. Baosen Zhang. My dissertation is here.</description>
     </item>
     
     <item>
@@ -55,8 +55,9 @@ I obtained my PhD in Electrical Engineering from University of Washington, Seatt
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>bolunxu.github.io/home/teaching/</guid>
-      <description>My research develops algorithms and market designs towards an economic, reliable, sustainable power system. I&amp;rsquo;m especially interested in the following topics.
-A Future with Energy Storage Energy storage is the kto a low-carbon future, and its business and operation models are keep evolving. Especially, optimally dispatching energy storage at the system level remains an open question. Besides establishing computation-viable cost and operation models for different storage technologies, the system must quantify the value of stored energy during real-time decision makings.</description>
+      <description>My research proposes algorithms and market designs towards an economic, reliable, and sustainable power system. I&amp;rsquo;m particularly interested in the following topics.
+A Future with Energy Storage Energy storage is the key to a low-carbon future for offsetting renewable fluctuations,
+but managing these assets at the system level remains an open question. Dispatch decisions must be made in real-time to accommodate instantaneous imbalances, but also need to consider the value of stored energy in the future.</description>
     </item>
     
     <item>
@@ -65,7 +66,8 @@ A Future with Energy Storage Energy storage is the kto a low-carbon future, and 
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>bolunxu.github.io/home/bio/</guid>
-      <description> Shandong Shanghai Ann Arbor Zurich Beijing Seattle Boston </description>
+      <description>Shanghai I started my undergraduate study at Shanghai Jiaotong University (SJTU) in 2007, where I enrolled in the joint institute (JI) with University of Michigan (UM). I spent my first two years there, and then I was transfered to UM as part of the dual bachelor degree program.
+Ann Arbor At Ann Arbor my primary direction was on embedded system design, but I first learned about the power industry from courses given by Prof.</description>
     </item>
     
     <item>
