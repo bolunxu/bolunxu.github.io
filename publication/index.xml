@@ -31,6 +31,24 @@
     </item>
     
     <item>
+      <title>A convex cycle-based degradation model for battery energy storage planning and operation</title>
+      <link>http://bolunxu.github.io/publication/shi_convex2018/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://bolunxu.github.io/publication/shi_convex2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal regulation response of batteries under cycle aging mechanisms</title>
+      <link>http://bolunxu.github.io/publication/xu_response2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://bolunxu.github.io/publication/xu_response2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Co-planning of Investments in Transmission and Merchant Energy Storage</title>
       <link>http://bolunxu.github.io/publication/dvorkin_coplanning2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
@@ -76,6 +94,15 @@
     </item>
     
     <item>
+      <title>Impact of Local Transmission Congestion on Energy Storage Arbitrage Opportunities</title>
+      <link>http://bolunxu.github.io/publication/wang_impact2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://bolunxu.github.io/publication/wang_impact2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Stochastic Multi-stage Co-planning Model of Transmission Expansion and BESS</title>
       <link>http://bolunxu.github.io/publication/qiu_stochastic2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 -0400</pubDate>
@@ -85,11 +112,65 @@
     </item>
     
     <item>
+      <title>Leveraging energy storage to optimize datacenter electricity cost in emerging power markets</title>
+      <link>http://bolunxu.github.io/publication/shi_leveraging2016/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://bolunxu.github.io/publication/shi_leveraging2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Economic Assessments of Electric Energy Storage in Wave Power Integrations</title>
+      <link>http://bolunxu.github.io/publication/he_economic2015/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://bolunxu.github.io/publication/he_economic2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“A Comparison of Policies on the Participation of Storage in U.S. Frequency Regulation Markets</title>
+      <link>http://bolunxu.github.io/publication/xu_comparion2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://bolunxu.github.io/publication/xu_comparion2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modeling of Lithium-ion Battery Degradation for Cell Life Assessment</title>
       <link>http://bolunxu.github.io/publication/xu_degradation2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 -0400</pubDate>
       
       <guid>http://bolunxu.github.io/publication/xu_degradation2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BESS control strategies for participating in grid frequency regulation</title>
+      <link>http://bolunxu.github.io/publication/xu_bess2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>http://bolunxu.github.io/publication/xu_bess2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of dynamic line rating on power dispatch performance and grid integration of renewable energy sources</title>
+      <link>http://bolunxu.github.io/publication/xu_dynamic2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0400</pubDate>
+      
+      <guid>http://bolunxu.github.io/publication/xu_dynamic2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding-up an OPF solution with a graph-based heuristics in EU FP7 ADDRESS</title>
+      <link>http://bolunxu.github.io/publication/xu_address2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 -0400</pubDate>
+      
+      <guid>http://bolunxu.github.io/publication/xu_address2013/</guid>
       <description></description>
     </item>
     
