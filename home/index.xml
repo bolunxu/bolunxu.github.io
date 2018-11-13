@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Bolun Xu</title>
-    <link>bolunxu.github.io/home/</link>
+    <link>http://bolunxu.github.io/home/</link>
     <description>Recent content in Homes on Bolun Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="bolunxu.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bolunxu.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>bolunxu.github.io/home/hero_carousel/</link>
+      <link>http://bolunxu.github.io/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/hero_carousel/</guid>
+      <guid>http://bolunxu.github.io/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>bolunxu.github.io/home/hero/</link>
+      <link>http://bolunxu.github.io/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/hero/</guid>
+      <guid>http://bolunxu.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
     </item>
     
     <item>
       <title></title>
-      <link>bolunxu.github.io/home/about/</link>
+      <link>http://bolunxu.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/about/</guid>
+      <guid>http://bolunxu.github.io/home/about/</guid>
       <description>About me I am a postdoctoral associate at Massachusetts Institute of Technology (MIT). My position is affiliated with MIT Energy Initiative (MITEI) and Lab for Info. and Decision Systems (LIDS), hosted by Dr. Francis O&amp;rsquo;Sullivan and Dr. Audun Botterud. My CV is here.
 I obtained my PhD in Electrical Engineering from University of Washington, Seattle, advised by Prof. Daniel Kirschen and Prof. Baosen Zhang. My dissertation is here.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>bolunxu.github.io/home/skills/</link>
+      <link>http://bolunxu.github.io/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/skills/</guid>
+      <guid>http://bolunxu.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>bolunxu.github.io/home/teaching/</link>
+      <link>http://bolunxu.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/teaching/</guid>
+      <guid>http://bolunxu.github.io/home/teaching/</guid>
       <description>My research proposes algorithms and market designs towards an economic, reliable, and sustainable power system. I&amp;rsquo;m particularly interested in the following topics.
 A Future with Energy Storage Energy storage is the key to a low-carbon future for offsetting renewable fluctuations, but managing these assets at the system level remains an open question. Operators must decide dispatch in real-time to accommodate instantaneous imbalances, but also need to consider the value of stored energy in the future.</description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>bolunxu.github.io/home/bio/</link>
+      <link>http://bolunxu.github.io/home/bio/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/bio/</guid>
+      <guid>http://bolunxu.github.io/home/bio/</guid>
       <description>I traveled many places during my career and am fortunate to have worked with many great researchers. I have arranged my experience based on the cities I lived.
 Shanghai I started my undergrad in Shanghai Jiaotong University (SJTU) in September 2007 and received my BS degree in Electrical and Computer Engineering in August 2011.
 Ann Arbor I transfered to University of Michigan (UM), Ann Arbor in September 2009 as part of a joint dual-degree program.</description>
@@ -72,101 +72,101 @@ Ann Arbor I transfered to University of Michigan (UM), Ann Arbor in September 20
     
     <item>
       <title>Biography</title>
-      <link>bolunxu.github.io/home/bio2/</link>
+      <link>http://bolunxu.github.io/home/bio2/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/bio2/</guid>
+      <guid>http://bolunxu.github.io/home/bio2/</guid>
       <description>Shanghai I started my undergraduate study at Shanghai Jiaotong University (SJTU) in 2007, where I enrolled in the joint institute (JI) with University of Michigan (UM). I spent my first two years there, and then I was transfered to UM as part of the dual bachelor degree program.
 Ann Arbor At Ann Arbor my primary direction was on embedded system design, but I first learned about the power industry from courses given by Prof.</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>bolunxu.github.io/home/experience/</link>
+      <link>http://bolunxu.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>bolunxu.github.io/home/experience/</guid>
+      <guid>http://bolunxu.github.io/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>bolunxu.github.io/home/publications_selected/</link>
+      <link>http://bolunxu.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/publications_selected/</guid>
+      <guid>http://bolunxu.github.io/home/publications_selected/</guid>
       <description>Please find some of my pulication highlights. Some data and codes are attached for implementation references. See my CV or my google scholar profile for a complete list of my publications.</description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>bolunxu.github.io/home/publications/</link>
+      <link>http://bolunxu.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/publications/</guid>
+      <guid>http://bolunxu.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>bolunxu.github.io/home/talks_selected/</link>
+      <link>http://bolunxu.github.io/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/talks_selected/</guid>
+      <guid>http://bolunxu.github.io/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>bolunxu.github.io/home/talks/</link>
+      <link>http://bolunxu.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/talks/</guid>
+      <guid>http://bolunxu.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>bolunxu.github.io/home/posts/</link>
+      <link>http://bolunxu.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/posts/</guid>
+      <guid>http://bolunxu.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>bolunxu.github.io/home/projects/</link>
+      <link>http://bolunxu.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/projects/</guid>
+      <guid>http://bolunxu.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>bolunxu.github.io/home/tags/</link>
+      <link>http://bolunxu.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/tags/</guid>
+      <guid>http://bolunxu.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>bolunxu.github.io/home/search/</link>
+      <link>http://bolunxu.github.io/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/search/</guid>
+      <guid>http://bolunxu.github.io/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>bolunxu.github.io/home/contact/</link>
+      <link>http://bolunxu.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/home/contact/</guid>
+      <guid>http://bolunxu.github.io/home/contact/</guid>
       <description></description>
     </item>
     

@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bolun Xu on Bolun Xu</title>
-    <link>bolunxu.github.io/</link>
+    <link>http://bolunxu.github.io/</link>
     <description>Recent content in Bolun Xu on Bolun Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="bolunxu.github.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Optimal Battery Participation in Frequency Regulation Markets</title>
-      <link>bolunxu.github.io/publication/xu_regulation2018/</link>
+      <link>http://bolunxu.github.io/publication/xu_regulation2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/publication/xu_regulation2018/</guid>
+      <guid>http://bolunxu.github.io/publication/xu_regulation2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Battery Control Under Cycle Aging Mechanisms in Pay for Performance Settings</title>
-      <link>bolunxu.github.io/publication/shi_optimal2018/</link>
+      <link>http://bolunxu.github.io/publication/shi_optimal2018/</link>
       <pubDate>Tue, 28 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/publication/shi_optimal2018/</guid>
+      <guid>http://bolunxu.github.io/publication/shi_optimal2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-planning of Investments in Transmission and Merchant Energy Storage</title>
-      <link>bolunxu.github.io/publication/dvorkin_coplanning2017/</link>
+      <link>http://bolunxu.github.io/publication/dvorkin_coplanning2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/publication/dvorkin_coplanning2017/</guid>
+      <guid>http://bolunxu.github.io/publication/dvorkin_coplanning2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Look-Ahead Bidding Strategy for Energy Storage</title>
-      <link>bolunxu.github.io/publication/wang_look2017/</link>
+      <link>http://bolunxu.github.io/publication/wang_look2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/publication/wang_look2017/</guid>
+      <guid>http://bolunxu.github.io/publication/wang_look2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalabe Planning for Energy Storage in Energy and Reserve Markets</title>
-      <link>bolunxu.github.io/publication/xu_scalable2016/</link>
+      <link>http://bolunxu.github.io/publication/xu_scalable2016/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/publication/xu_scalable2016/</guid>
+      <guid>http://bolunxu.github.io/publication/xu_scalable2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Battery Storage for Peak Shaving and Frequency Regulation: Joint Optimization for Superlinear Gains</title>
-      <link>bolunxu.github.io/publication/shi_using2017/</link>
+      <link>http://bolunxu.github.io/publication/shi_using2017/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/publication/shi_using2017/</guid>
+      <guid>http://bolunxu.github.io/publication/shi_using2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Factoring the Cycle Aging Cost of Batteries Participating in Electricity Markets</title>
-      <link>bolunxu.github.io/publication/xu_factoring2017/</link>
+      <link>http://bolunxu.github.io/publication/xu_factoring2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/publication/xu_factoring2017/</guid>
+      <guid>http://bolunxu.github.io/publication/xu_factoring2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Stochastic Multi-stage Co-planning Model of Transmission Expansion and BESS</title>
-      <link>bolunxu.github.io/publication/qiu_stochastic2016/</link>
+      <link>http://bolunxu.github.io/publication/qiu_stochastic2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/publication/qiu_stochastic2016/</guid>
+      <guid>http://bolunxu.github.io/publication/qiu_stochastic2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling of Lithium-ion Battery Degradation for Cell Life Assessment</title>
-      <link>bolunxu.github.io/publication/xu_degradation2016/</link>
+      <link>http://bolunxu.github.io/publication/xu_degradation2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/publication/xu_degradation2016/</guid>
+      <guid>http://bolunxu.github.io/publication/xu_degradation2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Energy Storage Siting and Sizing: A WECC Case Study</title>
-      <link>bolunxu.github.io/publication/ricardo_optimal2016/</link>
+      <link>http://bolunxu.github.io/publication/ricardo_optimal2016/</link>
       <pubDate>Tue, 01 Jun 2010 00:00:00 -0400</pubDate>
       
-      <guid>bolunxu.github.io/publication/ricardo_optimal2016/</guid>
+      <guid>http://bolunxu.github.io/publication/ricardo_optimal2016/</guid>
       <description></description>
     </item>
     
