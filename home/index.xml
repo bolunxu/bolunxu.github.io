@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Updates</title>
+      <link>http://bolunxu.github.io/home/updates/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://bolunxu.github.io/home/updates/</guid>
+      <description>January 2018 Invited seminar at University of Washington and University of Toronto.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>http://bolunxu.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
@@ -56,7 +65,7 @@ I obtained my PhD in Electrical Engineering from University of Washington, Seatt
       
       <guid>http://bolunxu.github.io/home/research/</guid>
       <description>My research proposes algorithms and market designs towards an economic, reliable, and sustainable power system. I&amp;rsquo;m particularly interested in the following topics.
-A Future with Energy Storage Energy storage offsets renewable fluctuations and is the key to a low-carbon future, but managing these assets at the system level remains an open question. Operators must make real-time dispatch decisions to accommodate instantaneous imbalances, but also need to consider the value of stored energy in the future.</description>
+A Future with Energy Storage Energy storage offsets renewable fluctuations and is the key to a low-carbon future, but managing these assets at the system level remains an open question. Operators must make real-time dispatch decisions to mitigate instantaneous imbalances, but also need to consider the value of stored energy in the future.</description>
     </item>
     
     <item>
@@ -117,7 +126,7 @@ Ann Arbor At Ann Arbor my primary direction was on embedded system design, but I
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Invited Talks</title>
       <link>http://bolunxu.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
