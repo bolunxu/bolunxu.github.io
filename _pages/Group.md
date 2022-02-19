@@ -15,7 +15,7 @@ classes: wide
   margin-left: 0px;" src="/assets/images/Xu_portrait.jpg" width="150px" >
 
 
-**Dr. Bolun Xu** received B.S. degrees from Shanghai Jiaotong University, Shanghai, China in 2011; M.Sc degree from Swiss Federal Institute of Technology, Zurich, Switzerland in 2014; and Ph.D. degree from University of Washington, Seattle, U.S. in 2018; all in Electrical Engineering. Before joining Columbia, he was a postdoc at MIT jointed hosted by MIT Energy Initiative and Lab for Information and Decision Systems.
+**Dr. Bolun Xu** is an Assistant Professor at Columbia University. He received B.S. degrees from Shanghai Jiaotong University, Shanghai, China in 2011; M.Sc degree from Swiss Federal Institute of Technology, Zurich, Switzerland in 2014; and Ph.D. degree from University of Washington, Seattle, U.S. in 2018; all in Electrical Engineering. Before joining Columbia, he was a postdoc at MIT jointed hosted by MIT Energy Initiative and Lab for Information and Decision Systems.
 
 
 <br />
@@ -147,4 +147,19 @@ classes: wide
 
 #### Alumnus
 
-**Luiz Lemos do Valle**, Undergraduate in Computer Science, 2020
+**MS students**<br />
+*Sacha Belaisch*, Electrical Engineering, 2021<br />
+*Zekun Ji*, Applied Mathematics, 2021<br />
+*Danyi Huang*, Chemical Engineering, 2021<br />
+*Shengtao Wang*, Earth and Environmental Engineering, 2021<br />
+*Shengtao Wang*, Earth and Environmental Engineering, 2021<br />
+*Tianxiao Shen*, Earth and Environmental Engineering, 2021<br />
+*Zheyuan Hu*, Electrical Engineering, 2021<br />
+*Andy Huang*, Mechanical Engineering, 2021<br />
+
+
+**Undergraduate students**<br />
+*Akira Higaki*, Computer Science, 2021<br />
+*Luiz do Valle*, Computer Science, 2020<br />
+*Felipe Couto*, Mechanical Engineering, 2020<br />
+*Wenting Ma*, Electrical Engineering, Tsinghua University (visitor), 2020
