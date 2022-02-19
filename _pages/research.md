@@ -1,8 +1,8 @@
 ---
 title: Research
-layout: collection
+layout: single
 permalink: /research/
-collection: portfolio
-entries_layout: grid
+# collection: portfolio
+# entries_layout: grid
 classes: wide
 ---

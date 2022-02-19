@@ -25,6 +25,8 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 *2021/03:* Our paper [A Data-driven Nonlinear Recharge Controller for Energy Storage in Frequency Regulation](https://arxiv.org/pdf/2101.04858.pdf) will be presented at 2021 IEEE Power & Energy Society General Meeting (PESGM).
 
+*2020/12:* Talk at Stanford University about [battery degradation valuation](https://www.youtube.com/watch?v=xysM9HLv8kA).
+
 *2020/06:* Our paper [Operational Valuation of Energy Storage under Multi-stage Price Uncertainties](https://arxiv.org/pdf/1910.09149.pdf) will be presented at 2020 59th IEEE Conference on Decision and Control (CDC).
 
 *2020/03:* Our paper [A Lagrangian Policy for Optimal Energy Storage Control](https://arxiv.org/pdf/1901.09507.pdf) will be presented at 2020 American Control Conference (ACC).

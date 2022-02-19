@@ -113,7 +113,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/bio-photo.jpg" width="150px" >
 
-**Huang Sheng**
+**Huan Sheng**
 
 
 <br />
