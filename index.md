@@ -5,7 +5,7 @@ classes: wide
 ---
 
 I am an Assistant Professor in Columbia University [Earth and Environmental Engineering](https://eee.columbia.edu/), with affiliation in [Electrical Engineering](https://ee.columbia.edu/).
-I am a core faculty in [Columbia Electrochemical Energy Center](https://ceec.engineering.columbia.edu/) and [Lenfest Center for Sustainable Energy](http://energy.columbia.edu/). My research interests are in sustainable energy and power systems, energy storage, and climate change.
+I am a core faculty at [Columbia Electrochemical Energy Center](https://ceec.engineering.columbia.edu/) and [Lenfest Center for Sustainable Energy](http://energy.columbia.edu/). My research interests include decarbonization of sustainable energy and power systems, integration of energy storage and other emerging technologies, and modeling the impact of climate change in energy systems.
 
 I obtained my PhD in Electrical Engineering from University of Washington, Seattle, advised by
 [Daniel Kirschen](http://labs.ece.uw.edu/real/real_pe.html) and
