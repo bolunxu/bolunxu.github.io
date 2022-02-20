@@ -8,7 +8,7 @@ classes: wide
 ---
 #### Postdoc Opportunities
 
-Please check out postdoc fellowship opportunities at [Columbia Data Science Institute](https://datascience.columbia.edu/) and [Earth Institute](https://www.earth.columbia.edu/articles/view/55), and email me it either suits your interest. Please be mindful about the application deadline.
+Please check out postdoc fellowship opportunities at [Data Science Institute](https://datascience.columbia.edu/) and [Earth Institute](https://www.earth.columbia.edu/articles/view/55), and email me it either suits your interest. Please be mindful about the application deadline.
 
 #### Perspective PhD students
 
