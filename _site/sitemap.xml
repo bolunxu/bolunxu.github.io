@@ -23,7 +23,10 @@
 <loc>http://localhost:4000/codes/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/eaee4220/</loc>
+<loc>http://localhost:4000/courses/eaee4220/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/courses/eaee4257/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -45,6 +48,14 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/courses/eaee4220/EAEE4220_Syllabus.pdf</loc>
+<lastmod>2021-10-04T16:04:29-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/courses/eaee4257/EAEE4257_Syllabus.pdf</loc>
+<lastmod>2022-02-14T09:34:15-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/files/Xu_CV.pdf</loc>
