@@ -92,10 +92,10 @@ research interests is in terms of Sustainable Energy and Environmental Economics
 #### Alumni
 
 **MS students**<br />
+*Yishi Wang*, Civil Engineering and Engineering Mechanics, 2021<br />
 *Sacha Belaisch*, Electrical Engineering, 2021<br />
 *Zekun Ji*, Applied Mathematics, 2021<br />
 *Danyi Huang*, Chemical Engineering, 2021<br />
-*Shengtao Wang*, Earth and Environmental Engineering, 2021<br />
 *Shengtao Wang*, Earth and Environmental Engineering, 2021<br />
 *Tianxiao Shen*, Earth and Environmental Engineering, 2021<br />
 *Zheyuan Hu*, Electrical Engineering, 2021<br />
