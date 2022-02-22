@@ -16,6 +16,7 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
+*2022/2:* Our paper [Arbitraging Variable Efficiency Energy Storage using Analytical Stochastic Dynamic Programming](https://arxiv.org/pdf/2108.06000.pdf) has been accepted by IEEE Transactions on Power Systems.
 
 *2021/12:* Pre-print: [Arbitraging Variable Efficiency Energy Storage using Analytical Stochastic Dynamic Programming](https://arxiv.org/pdf/2108.06000.pdf).
 
