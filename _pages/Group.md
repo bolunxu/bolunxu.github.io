@@ -5,52 +5,24 @@ author_profile: false
 classes: wide
 ---
 
-#### Group Lead
-
-<!-- ![image](/assets/images/Xu_portrait.jpg){: style="float: left" height="200px" width="200px"} -->
-
-<img style="float: left;  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/Xu_portrait.jpg" width="150px" >
-
-
-**Dr. Bolun Xu** is an Assistant Professor at Columbia University. He received B.S. degrees from Shanghai Jiaotong University, Shanghai, China in 2011; M.Sc degree from Swiss Federal Institute of Technology, Zurich, Switzerland in 2014; and Ph.D. degree from University of Washington, Seattle, U.S. in 2018; all in Electrical Engineering. Before joining Columbia, he was a postdoc at MIT jointed hosted by MIT Energy Initiative and Lab for Information and Decision Systems.
-
-
-<br />
-
 #### PhD Students
 
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/bio-photo.jpg" width="150px" >
+  margin-left: 0px;" src="/assets/images/nik.jpeg" width="120px" >
 
-**Nik (Ningkun) Zheng** (email: [nz2343@columbia.edu](mailto:nz2343@columbia.edu))
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
+[**Nik (Ningkun) Zheng**](https://www.linkedin.com/in/ningkun-zheng-377865168/) received B.S. degree from Zhejiang University, Zhejiang, China in 2018; M.S. degree from Johns Hopkins University, Baltimore, MD, USA, in 2019.  Before joining Columbia, he was a research assistant at Carnegie Mellon Electricity Industry Center, Carnegie Mellon University, Pittsburgh, PA, USA. His research interests include power system economic and energy storage.
 <br />
 <br />
 
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/bio-photo.jpg" width="150px" >
+  margin-left: 0px;" src="/assets/images/bio-photo.jpg" width="120px" >
 
 **Umar Salman**
 
-
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -61,15 +33,9 @@ classes: wide
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/bio-photo.jpg" width="150px" >
+  margin-left: 0px;" src="/assets/images/joshua.jpg" width="120px" >
 
-**Joshua Javorski**
-
-
-<br />
-<br />
-<br />
-<br />
+[**Joshua Javorski**](https://www.linkedin.com/in/jjjaworski/) is an Electrical Engineering M.Sc. student at Columbia University. He received his B.Sc. degree in Mechanical Engineering from the University of Washington, Seattle, U.S. in 2017. Before joining the M.Sc. program at Columbia, he was the lead Process Engineer at First Quantum Minerals’ power station, port and copper concentrate filtration plant complex in Panama.
 <br />
 <br />
 <br />
@@ -77,7 +43,7 @@ classes: wide
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/bio-photo.jpg" width="150px" >
+  margin-left: 0px;" src="/assets/images/bio-photo.jpg" width="120px" >
 
 **Yousuf Baker**
 
@@ -86,22 +52,15 @@ classes: wide
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/bio-photo.jpg" width="150px" >
+  margin-left: 0px;" src="/assets/images/mei.jpeg" width="120px" >
 
-**Zhu Mei**
-
-
-<br />
-<br />
-<br />
+**Zhu Mei** is a Master student at Columbia University majoring in Earth and Environmental
+Engineering. He received B.S. degrees from Shandong University, Qingdao, China in 2021. His
+research interests is in terms of Sustainable Energy and Environmental Economics.
 <br />
 <br />
 <br />
@@ -111,15 +70,10 @@ classes: wide
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/bio-photo.jpg" width="150px" >
+  margin-left: 0px;" src="/assets/images/huan.jpg" width="120px" >
 
-**Huan Sheng**
+**Huan Sheng** is a master candidate at Columbia University. He received a B.S. degree from Central South University, Changsha, China in 2020. He is interested in sustainable energy systems.
 
-
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -132,16 +86,10 @@ classes: wide
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/bio-photo.jpg" width="150px" >
+  margin-left: 0px;" src="/assets/images/steven.jpg" width="120px" >
 
-**Steven Liu**
+**Steven Liu** is a senior at Columbia Engineering majoring in Computer Science. He's interested in Machine Learning and Operations Research, and he will join the quantitative finance industry upon graduation.
 
-
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 
