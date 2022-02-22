@@ -38,7 +38,6 @@ classes: wide
 [**Joshua Javorski**](https://www.linkedin.com/in/jjjaworski/) is an Electrical Engineering M.Sc. student at Columbia University. He received his B.Sc. degree in Mechanical Engineering from the University of Washington, Seattle, U.S. in 2017. Before joining the M.Sc. program at Columbia, he was the lead Process Engineer at First Quantum Minerals’ power station, port and copper concentrate filtration plant complex in Panama.
 <br />
 <br />
-<br />
 
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
@@ -64,8 +63,6 @@ research interests is in terms of Sustainable Energy and Environmental Economics
 <br />
 <br />
 <br />
-<br />
-<br />
 
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
@@ -74,7 +71,6 @@ research interests is in terms of Sustainable Energy and Environmental Economics
 
 **Huan Sheng** is a master candidate at Columbia University. He received a B.S. degree from Central South University, Changsha, China in 2020. He is interested in sustainable energy systems.
 
-<br />
 <br />
 <br />
 <br />
