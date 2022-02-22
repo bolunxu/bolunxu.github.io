@@ -5,6 +5,9 @@ main:
     url: /group/
   - title: "Join"
     url: /join/
+  - title: "Codes"
+    url: /code/
+  
   # - title: "About"
   #   url: /about/
   # - title: "Posts"
