@@ -10,7 +10,7 @@ classes: wide
 
 Please check out postdoc fellowship opportunities at [Data Science Institute](https://datascience.columbia.edu/) and [Earth Institute](https://www.earth.columbia.edu/articles/view/55), and email me if either suits your interest. Please be mindful about the application deadline.
 
-#### Perspective PhD students
+#### Prospective PhD students
 
 If you are interested in working with me, please send me an email with your resume, and apply to the PhD program at Columbia Earth and Environmental Engineering.
 

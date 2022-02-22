@@ -35,7 +35,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/joshua.jpg" width="120px" >
 
-[**Joshua Javorski**](https://www.linkedin.com/in/jjjaworski/) is an Electrical Engineering M.Sc. student at Columbia University. He received his B.Sc. degree in Mechanical Engineering from the University of Washington, Seattle, U.S. in 2017. Before joining the M.Sc. program at Columbia, he was the lead Process Engineer at First Quantum Minerals’ power station, port and copper concentrate filtration plant complex in Panama.
+[**Joshua Jaworski**](https://www.linkedin.com/in/jjjaworski/) is an Electrical Engineering M.Sc. student at Columbia University. He received his B.Sc. degree in Mechanical Engineering from the University of Washington, Seattle, U.S. in 2017. Before joining the M.Sc. program at Columbia, he was the lead Process Engineer at First Quantum Minerals’ power station, port and copper concentrate filtration plant complex in Panama.
 <br />
 <br />
 
