@@ -12,7 +12,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/nik.jpeg" width="120px" >
 
-[**Nik (Ningkun) Zheng**](https://www.linkedin.com/in/ningkun-zheng-377865168/) received B.S. degree from Zhejiang University, Zhejiang, China in 2018; M.S. degree from Johns Hopkins University, Baltimore, MD, USA, in 2019.  Before joining Columbia, he was a research assistant at Carnegie Mellon Electricity Industry Center, Carnegie Mellon University, Pittsburgh, PA, USA. His research interests include power system economic and energy storage.
+[**Ningkun (Nik) Zheng**](https://www.linkedin.com/in/ningkun-zheng-377865168/) received B.S. degree from Zhejiang University, Zhejiang, China in 2018; M.S. degree from Johns Hopkins University, Baltimore, MD, USA, in 2019.  Before joining Columbia, he was a research assistant at Carnegie Mellon Electricity Industry Center, Carnegie Mellon University, Pittsburgh, PA, USA. His research interests include power system economic and energy storage.
 <br />
 <br />
 
@@ -89,7 +89,7 @@ research interests is in terms of Sustainable Energy and Environmental Economics
 <br />
 <br />
 
-#### Alumnus
+#### Alumni
 
 **MS students**<br />
 *Sacha Belaisch*, Electrical Engineering, 2021<br />
