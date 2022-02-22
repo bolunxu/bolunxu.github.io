@@ -1,5 +1,5 @@
 ---
-title: Perspective Members
+title: Prospective Members
 layout: single
 permalink: /join/
 # collection: portfolio
