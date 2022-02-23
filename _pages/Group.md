@@ -42,13 +42,9 @@ classes: wide
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/bio-photo.jpg" width="120px" >
+  margin-left: 0px;" src="/assets/images/yousuf.jpg" width="120px" >
 
-**Yousuf Baker**
-
-
-<br />
-<br />
+**Yousuf Baker** is an M.Sc Electrical Engineering student at Columbia University. He completed his B.Sc in Electrical Engineering at Boston University during which he also worked as a research assistant in BU's computational imaging lab working on scalable deep learning methods, and also as a venture's associate working on the divestment from shale oil to clean tech.
 <br />
 <br />
 
