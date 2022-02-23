@@ -5,12 +5,11 @@ classes: wide
 ---
 
 I am an Assistant Professor in Columbia University [Earth and Environmental Engineering](https://eee.columbia.edu/), with affiliation in [Electrical Engineering](https://ee.columbia.edu/).
-I am a core faculty at [Columbia Electrochemical Energy Center](https://ceec.engineering.columbia.edu/) and [Lenfest Center for Sustainable Energy](http://energy.columbia.edu/). My research interests include decarbonization of sustainable energy and power systems, integration of energy storage and other emerging technologies, and modeling the impact of climate change in energy systems.
+I am a core faculty at [Columbia Electrochemical Energy Center](https://ceec.engineering.columbia.edu/) and [Lenfest Center for Sustainable Energy](http://energy.columbia.edu/). My research interests include sustainable energy and power systems, integration of energy storage and other emerging decarbonization technologies, and modeling the impact of climate change in energy systems.
 
 I obtained my PhD in Electrical Engineering from University of Washington, Seattle, advised by
 [Daniel Kirschen](http://labs.ece.uw.edu/real/real_pe.html) and
-[Baosen Zhang](https://zhangbaosen.github.io/). I did my Postdoc in MIT, hosted by [Francis O'Sullivan](http://energy.mit.edu/profile/francis-osullivan/)
-and [Audun Botterud](http://botterud.mit.edu/).
+[Baosen Zhang](https://zhangbaosen.github.io/). I did my Postdoc in MIT, hosted by [Audun Botterud](http://botterud.mit.edu/).
 My CV is [here](assets/files/Xu_CV.pdf).
 
 

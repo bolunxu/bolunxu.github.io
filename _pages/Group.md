@@ -53,7 +53,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/mei.jpeg" width="120px" >
 
-**Zhu Mei** is a Master student at Columbia University majoring in Earth and Environmental
+[**Zhu Mei**](https://www.linkedin.com/in/zhu-mei-937038220) is a Master student at Columbia University majoring in Earth and Environmental
 Engineering. He received B.S. degrees from Shandong University, Qingdao, China in 2021. His
 research interests is in terms of Sustainable Energy and Environmental Economics.
 <br />
@@ -69,8 +69,6 @@ research interests is in terms of Sustainable Energy and Environmental Economics
 
 <br />
 <br />
-<br />
-
 
 
 #### Undergraduate Students
