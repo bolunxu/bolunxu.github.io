@@ -15,6 +15,8 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
+*2022/03:* Pre-print: [Impact of Bidding and Dispatch Models over Energy Storage Utilization in Bulk Power Systems](https://arxiv.org/pdf/2201.03421.pdf).
+
 *2022/02:* Our paper [Arbitraging Variable Efficiency Energy Storage using Analytical Stochastic Dynamic Programming](https://arxiv.org/pdf/2108.06000.pdf) has been accepted by IEEE Transactions on Power Systems.
 
 *2021/12:* Pre-print: [Arbitraging Variable Efficiency Energy Storage using Analytical Stochastic Dynamic Programming](https://arxiv.org/pdf/2108.06000.pdf).
