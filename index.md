@@ -17,7 +17,7 @@ My CV is [here](assets/files/Xu_CV.pdf).
 #### Updates
 *2022/07:* Slides from PESGM 2022 on 1) [battery degradation valuation](assets/files/Xu_PESGM_StorageValuation.pdf); 2) [optimal bidding and control](assets/files/Xu_PESGM_StorageControl.pdf) are available.
 
-*2022/07:* Pre-print: [Energy Storage State-of-Charge Market Model](https://arxiv.org/pdf/2207.07221.pdf).
+*2022/07:* Pre-print: [Energy Storage State-of-Charge Market Model](https://arxiv.org/pdf/2207.07221.pdf), in collaboration with California ISO and PNNL.
 
 *2022/06:* FERC [talk](https://www.ferc.gov/media/impact-market-bidding-and-dispatch-model-over-energy-storage-utilization) on storage market model.
 
