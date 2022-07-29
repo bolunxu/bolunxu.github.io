@@ -15,7 +15,7 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
-*2022/07:* Slides from PESGM 2022 on 1) [battery degradation valuation](Xu_PESGM_StorageValuation.pdf); 2) [optimal bidding and control](Xu_PESGM_StorageControl.pdf) are available.
+*2022/07:* Slides from PESGM 2022 on 1) [battery degradation valuation](assets/files/Xu_PESGM_StorageValuation.pdf); 2) [optimal bidding and control](assets/files/Xu_PESGM_StorageControl.pdf) are available.
 
 *2022/07:* Pre-print: [Energy Storage State-of-Charge Market Model](https://arxiv.org/pdf/2207.07221.pdf).
 
