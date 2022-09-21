@@ -25,6 +25,24 @@ classes: wide
 <br />
 <br />
 
+<img style="float: left;  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/liudong.jpg" width="120px" >
+
+**Liudong Chen** received the B.S. and M.S. degrees in Electric Engineering from North China Electric Power University, Beijing, China. Before joining Columbia, he was a research assistant at State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources, North China Electric Power University, Beijing, China. His research interests include energy system economics and optimization and social behavioral modeling.
+<br />
+<br />
+
+<img style="float: left;  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/fan.jpg" width="120px" >
+
+**Zhiyuan Fan** worked as research associate at the Center on Global Energy Policy and as a graduate student researcher at the Sustainable Engineering Lab in Columbia University’s Mechanical Engineering Department. His research focuses on transitional energy infrastructure analysis using energy system modeling tools, especially energy infrastructure in supporting carbon-neutral economic development. He is also an active member of the Energy System Modelling Program at the Center on Global Energy Policy (CGEP), SIPA, Columbia University.
+<br />
+<br />
+
 #### MS Students
 
 <img style="float: left;  margin-top: 10px;
@@ -45,40 +63,12 @@ classes: wide
 <br />
 <br />
 
-<img style="float: left;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/mei.jpeg" width="120px" >
 
-[**Zhu Mei**](https://www.linkedin.com/in/zhu-mei-937038220) is a Master student at Columbia University majoring in Earth and Environmental
-Engineering. He received B.S. degrees from Shandong University, Qingdao, China in 2021. His
-research interests is in terms of Sustainable Energy and Environmental Economics.
-<br />
-<br />
-<br />
-
-<img style="float: left;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/huan.jpg" width="120px" >
-
-**Huan Sheng** is a master candidate at Columbia University. He received a B.S. degree from Central South University, Changsha, China in 2020. He is interested in sustainable energy systems.
-
-<br />
-<br />
 
 
 #### Undergraduate Students
 
-<img style="float: left;  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/steven.jpg" width="120px" >
 
-**Steven Liu** is a senior at Columbia Engineering majoring in Computer Science. He's interested in Machine Learning and Operations Research, and he will join the quantitative finance industry upon graduation.
-
-<br />
-<br />
 
 #### Alumni
 
@@ -87,13 +77,11 @@ research interests is in terms of Sustainable Energy and Environmental Economics
 *Sacha Belaisch*, Electrical Engineering, 2021<br />
 *Zekun Ji*, Applied Mathematics, 2021<br />
 *Danyi Huang*, Chemical Engineering, 2021<br />
-*Shengtao Wang*, Earth and Environmental Engineering, 2021<br />
-*Tianxiao Shen*, Earth and Environmental Engineering, 2021<br />
-*Zheyuan Hu*, Electrical Engineering, 2021<br />
-*Andy Huang*, Mechanical Engineering, 2021<br />
+
 
 
 **Undergraduate students**<br />
+*Steven Liu*, Computer Science, 2021<br />
 *Akira Higaki*, Computer Science, 2021<br />
 *Luiz do Valle*, Computer Science, 2020<br />
 *Felipe Couto*, Mechanical Engineering, 2020<br />
