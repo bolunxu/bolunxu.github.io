@@ -77,7 +77,6 @@ This code calculates the opportunity value of battery degradation based on histo
 The code uses an analytical algorithm to solve stochastic dynamic programming for optimizing battery price arbitrage in wholesale real-time electricity markets, reference [here](https://arxiv.org/pdf/2108.06000.pdf).
 
 [Code](https://github.com/niklauskun/MarkovESValuation) in Matlab.
-
 <br />
 <br />
 <br />
@@ -94,4 +93,4 @@ The code uses an analytical algorithm to solve stochastic dynamic programming fo
 <br />
 The code compares different degradation models in grid optimization. Reference paper is [here](https://link.springer.com/epdf/10.1557/s43581-022-00047-7?sharing_token=XqgrEE3lpdL9CdWXy_ZyoNdkX09eXsMYQQpccBFOqFrgND_URUpmto2IPclM5HvhK2gsAQGDyQgGGj_MYbdpFwbRoaJV7muf49tt5GBttNa_cKmGqcbh_WaBPM3V3k_uVVCvha9gIiqKPHUJs9EjjXgyHg9a6SG03hmVYT3t9FQ%3D).
 
-[Code](/assets/codes/Compare_deg_model.zip) in Julia.
+[Code](/assets/codes/Compare_deg_model.zip) in Julia (requires Gurobi).
