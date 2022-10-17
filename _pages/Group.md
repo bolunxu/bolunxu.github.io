@@ -63,6 +63,15 @@ classes: wide
 <br />
 <br />
 
+<img style="float: left;  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/jiajun.jpg" width="120px" >
+
+**Jiajun Han** is an M.Sc Electrical Engineering student at Columbia University. He graduated from North China Electric Power University and my BS study mainly refers to power systems and grids.
+
+<br />
+<br />
 
 
 
