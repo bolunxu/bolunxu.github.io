@@ -12,7 +12,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/nik.jpeg" width="120px" >
 
-[**Ningkun (Nik) Zheng**](https://www.linkedin.com/in/ningkun-zheng-377865168/) received B.S. degree from Zhejiang University, Zhejiang, China in 2018; M.S. degree from Johns Hopkins University, Baltimore, MD, USA, in 2019.  Before joining Columbia, he was a research assistant at Carnegie Mellon Electricity Industry Center, Carnegie Mellon University, Pittsburgh, PA, USA. His research interests include power system economic and energy storage.
+[**Ningkun (Nik) Zheng**](https://ningkunzheng.github.io/) received B.S. degree from Zhejiang University, Zhejiang, China in 2018; M.S. degree from Johns Hopkins University, Baltimore, MD, USA, in 2019.  Before joining Columbia, he was a research assistant at Carnegie Mellon Electricity Industry Center, Carnegie Mellon University, Pittsburgh, PA, USA. His research interests include power system economic and energy storage.
 <br />
 <br />
 
@@ -21,7 +21,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/umar.png" width="120px" >
 
-**Umar Salman** received the B.S. degree in Electrical/Electronic Engineering from the University of Lagos, Nigeria in 2015. He obtained the M.S. degree in Electrical Engineering from King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia in 2020. Before joining Columbia University, he was a research assistant at the Research Institute, KFUPM and the National Power Academy, Saudi Arabia. His research interests include modeling, and optimization of complex systems, such as energy storage systems, energy markets and  application machine learning to power systems.
+[**Umar Salman**](www.linkedin.com/in/umar-salman-851a9469) received the B.S. degree in Electrical/Electronic Engineering from the University of Lagos, Nigeria in 2015. He obtained the M.S. degree in Electrical Engineering from King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia in 2020. Before joining Columbia University, he was a research assistant at the Research Institute, KFUPM and the National Power Academy, Saudi Arabia. His research interests include modeling, and optimization of complex systems, such as energy storage systems, energy markets and  application machine learning to power systems.
 <br />
 <br />
 
