@@ -43,6 +43,16 @@ classes: wide
 <br />
 <br />
 
+
+<img style="float: left;  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/saud.jpg" width="120px" >
+
+**Saud Alghumayjan**  received his B.Sc. degree in Electrical Engineering from King Saud University in 2018. He obtained his M.S. degree in Electrical Engineering from Columbia University in 2022. Before joining Columbia University he worked at the Center for Complex Engineering Systems at KACST and MIT as a Research Specialist where he tackled various problems related to power systems such as Electiricy Fraud Detection and Time-series Forecasting. Saud's research interests are in the areas of machine and statistical learning, optimization, and computational modeling.
+<br />
+<br />
+
 #### MS Students
 
 <img style="float: left;  margin-top: 10px;
