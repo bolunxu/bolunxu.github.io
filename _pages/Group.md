@@ -41,7 +41,6 @@ classes: wide
 
 **Zhiyuan Fan** (joint with [James Glynn](https://www.energypolicy.columbia.edu/dr-james-glynn)) worked as research associate at the Center on Global Energy Policy and as a graduate student researcher at the Sustainable Engineering Lab in Columbia University’s Mechanical Engineering Department. His research focuses on transitional energy infrastructure analysis using energy system modeling tools, especially energy infrastructure in supporting carbon-neutral economic development. He is also an active member of the Energy System Modeling Program at the Center on Global Energy Policy (CGEP), SIPA, Columbia University.
 <br />
-<br />
 
 
 <img style="float: left;  margin-top: 0px;
