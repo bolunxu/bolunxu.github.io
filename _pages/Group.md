@@ -35,6 +35,7 @@ classes: wide
 **Liudong Chen** received the B.S. and M.S. degrees in Electric Engineering from North China Electric Power University, Beijing, China. Before joining Columbia, he was a research assistant at State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources, North China Electric Power University, Beijing, China. His research interests include energy system economics and optimization and social behavioral modeling.
 <br />
 <br />
+<br />
 
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
