@@ -25,7 +25,6 @@ classes: wide
 [**Umar Salman**](www.linkedin.com/in/umar-salman-851a9469) received the B.S. degree in Electrical/Electronic Engineering from the University of Lagos, Nigeria in 2015. He obtained the M.S. degree in Electrical Engineering from King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia in 2020. Before joining Columbia University, he was a research assistant at the Research Institute, KFUPM and the National Power Academy, Saudi Arabia. His research interests include modeling, and optimization of complex systems, such as energy storage systems, energy markets and  application machine learning to power systems.
 <br />
 <br />
-<br />
 
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
@@ -53,7 +52,6 @@ classes: wide
   margin-left: 0px;" src="/assets/images/saud.jpg" width="150px" >
 
 **Saud Alghumayjan**  received his B.Sc. degree in Electrical Engineering from King Saud University in 2018. He obtained his M.S. degree in Electrical Engineering from Columbia University in 2022. Before joining Columbia University he worked at the Center for Complex Engineering Systems at KACST and MIT as a Research Specialist where he tackled various problems related to power systems such as Electiricy Fraud Detection and Time-series Forecasting. Saud's research interests are in the areas of machine and statistical learning, optimization, and computational modeling.
-<br />
 <br />
 <br />
 
