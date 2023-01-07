@@ -15,6 +15,10 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
+*2023/01：* Honored to receive the [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239046&HistoricalAwards=false) to work on energy storage grid integration.
+
+*2022/12：* New [preprint](https://arxiv.org/pdf/2301.01233.pdf) on integration transfer learning into energy storage bidding.
+
 *2022/11:* New [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9954354&tag=1) on battery technology valuation in electricity markets.
 
 *2022/09:* New [paper](https://rdcu.be/cVUtc) on battery degradation models for power system optimization, [codes](https://bolunxu.github.io/codes/) available.
