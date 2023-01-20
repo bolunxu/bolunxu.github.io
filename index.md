@@ -15,6 +15,8 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
+*2023/01:* Our SoC market model for energy storage has been published in new [IEEE Transactions on Energy Markets, Policy and Regulation](https://ieeexplore.ieee.org/document/10021874) journal.
+
 *2023/01:* Honored to receive the [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239046&HistoricalAwards=false) to work on energy storage grid integration.
 
 *2022/12:* [Preprint](https://arxiv.org/pdf/2301.01233.pdf) on integration transfer learning into energy storage bidding.
@@ -24,8 +26,6 @@ My CV is [here](assets/files/Xu_CV.pdf).
 *2022/09:* [Paper](https://rdcu.be/cVUtc) on battery degradation models for power system optimization, [codes](https://bolunxu.github.io/codes/) available.
 
 *2022/07:* Slides from PESGM 2022 on 1) [battery degradation valuation](assets/files/Xu_PESGM_StorageValuation.pdf); 2) [optimal bidding and control](assets/files/Xu_PESGM_StorageControl.pdf) are available.
-
-*2022/07:* Pre-print: [Energy Storage State-of-Charge Market Model](https://arxiv.org/pdf/2207.07221.pdf), in collaboration with California ISO and PNNL.
 
 *2022/06:* FERC [talk](https://www.ferc.gov/media/impact-market-bidding-and-dispatch-model-over-energy-storage-utilization) on storage market model.
 
