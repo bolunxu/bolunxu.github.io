@@ -15,7 +15,7 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
-*2023/01:* Our SoC market model for energy storage has been published in new [IEEE Transactions on Energy Markets, Policy and Regulation](https://ieeexplore.ieee.org/document/10021874) journal.
+*2023/01:* Our SoC market model for energy storage has been published in the new [IEEE Transactions on Energy Markets, Policy and Regulation](https://ieeexplore.ieee.org/document/10021874) journal.
 
 *2023/01:* Honored to receive the [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239046&HistoricalAwards=false) to work on energy storage grid integration.
 
