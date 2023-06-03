@@ -15,6 +15,7 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
+
 *2023/02:* Our group will present work on using [a novel deep learning approach for energy storage price arbitrage](https://arxiv.org/pdf/2211.07797.pdf) in the PES General Meeting 2023.
 
 *2023/01:* Our SoC market model for energy storage has been published in the new [IEEE Transactions on Energy Markets, Policy and Regulation](https://ieeexplore.ieee.org/document/10021874) journal.

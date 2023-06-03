@@ -82,9 +82,6 @@ The code uses an analytical algorithm to solve stochastic dynamic programming fo
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 #### Comparing different battery degradation models in power system optimization
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
@@ -94,3 +91,14 @@ The code uses an analytical algorithm to solve stochastic dynamic programming fo
 The code compares different degradation models in grid optimization. Reference paper is [here](https://link.springer.com/epdf/10.1557/s43581-022-00047-7?sharing_token=XqgrEE3lpdL9CdWXy_ZyoNdkX09eXsMYQQpccBFOqFrgND_URUpmto2IPclM5HvhK2gsAQGDyQgGGj_MYbdpFwbRoaJV7muf49tt5GBttNa_cKmGqcbh_WaBPM3V3k_uVVCvha9gIiqKPHUJs9EjjXgyHg9a6SG03hmVYT3t9FQ%3D).
 
 [Code](/assets/codes/Compare_deg_model.zip) in Julia (requires Gurobi).
+
+#### Comparing different battery degradation models in power system optimization
+<img style="float: left;  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 45px;
+  margin-left: 0px;" src="/assets/codes/figures/TES.png" width="800px" >
+<br />
+
+Algorithms for bidding energy storage to arbitrage in wholesale markets. Reference paper is [here](https://arxiv.org/pdf/2301.01233.pdf).
+
+[Code](https://github.com/ybaker661/LSTM-Value-Prediction) in Python.
