@@ -15,6 +15,7 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
+*2023/06:* Transferable energy storage bidder published in [TPWRS](https://ieeexplore.ieee.org/document/10138051).
 
 *2023/02:* Our group will present work on using [a novel deep learning approach for energy storage price arbitrage](https://arxiv.org/pdf/2211.07797.pdf) in the PES General Meeting 2023.
 
@@ -37,18 +38,3 @@ My CV is [here](assets/files/Xu_CV.pdf).
 *2022/03:* Pre-print: [Impact of Bidding and Dispatch Models over Energy Storage Utilization in Bulk Power Systems](https://arxiv.org/pdf/2201.03421.pdf).
 
 *2022/02:* Our paper [Arbitraging Variable Efficiency Energy Storage using Analytical Stochastic Dynamic Programming](https://arxiv.org/pdf/2108.06000.pdf) has been accepted by IEEE Transactions on Power Systems.
-
-*2021/12:* Pre-print: [Arbitraging Variable Efficiency Energy Storage using Analytical Stochastic Dynamic Programming](https://arxiv.org/pdf/2108.06000.pdf).
-
-*2021/09:* Our paper [Dynamic Valuation of Battery Lifetime](https://arxiv.org/pdf/2011.08425.pdf) has been accepted by IEEE Transactions on Power Systems.
-
-*2021/09:* Pre-print: [End-to-End Demand Response Model Identification and Baseline Estimation with Deep Learning](https://arxiv.org/pdf/2109.00741.pdf).
-
-*2021/03:* Our paper [A Data-driven Nonlinear Recharge Controller for Energy Storage in Frequency Regulation](https://arxiv.org/pdf/2101.04858.pdf) will be presented at 2021 IEEE Power & Energy Society General Meeting (PESGM).
-
-*2020/12:* Talk at Stanford University about [battery degradation valuation](https://www.youtube.com/watch?v=xysM9HLv8kA).
-
-*2020/06:* Our paper [Operational Valuation of Energy Storage under Multi-stage Price Uncertainties](https://arxiv.org/pdf/1910.09149.pdf) will be presented at 2020 59th IEEE Conference on Decision and Control (CDC).
-
-*2020/03:* Our paper [A Lagrangian Policy for Optimal Energy Storage Control](https://arxiv.org/pdf/1901.09507.pdf) will be presented at 2020 American Control Conference (ACC).
-<!-- *2019/12:* Preprints and codes are now available for recent works on [deterministic](https://bolunxu.github.io/publication/xu_lagrangian2019/) and [stochastic](https://bolunxu.github.io/publication/xu_stochastic2019/) energy storage control. -->

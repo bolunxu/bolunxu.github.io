@@ -103,7 +103,6 @@ The code compares different degradation models in grid optimization. Reference p
   margin-right: 45px;
   margin-left: 0px;" src="/assets/codes/figures/TES.png" width="800px" >
 <br />
-
 Algorithms for bidding energy storage to arbitrage in wholesale markets. Reference paper is [here](https://arxiv.org/pdf/2301.01233.pdf).
 
 [Code](https://github.com/ybaker661/LSTM-Value-Prediction) in Python.
