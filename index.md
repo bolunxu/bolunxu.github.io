@@ -15,6 +15,10 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
+*2023/07:* [Sides](assets/files/Xu_Aachen.pdf) from my recent talk at RWTH Aachen University provides a good overview of our work on energy storage.
+
+*2023/06:* New paper published in [Joule](https://www.cell.com/joule/pdf/S2542-4351(23)00211-8.pdf) about market design for energy storage.
+
 *2023/06:* Transferable energy storage bidder published in [TPWRS](https://ieeexplore.ieee.org/document/10138051).
 
 *2023/02:* Our group will present work on using [a novel deep learning approach for energy storage price arbitrage](https://arxiv.org/pdf/2211.07797.pdf) in the PES General Meeting 2023.
