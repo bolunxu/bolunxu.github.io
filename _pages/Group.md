@@ -45,9 +45,9 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/fan.jpg" width="150px" >
 
-**Zhiyuan Fan** (joint with [James Glynn](https://www.energypolicy.columbia.edu/dr-james-glynn)) worked as research associate at the Center on Global Energy Policy and as a graduate student researcher at the Sustainable Engineering Lab in Columbia University’s Mechanical Engineering Department. His research focuses on transitional energy infrastructure analysis using energy system modeling tools, especially energy infrastructure in supporting carbon-neutral economic development. He is also an active member of the Energy System Modeling Program at the Center on Global Energy Policy (CGEP), SIPA, Columbia University.
+**Zhiyuan Fan** (joint with [James Glynn](https://www.energypolicy.columbia.edu/dr-james-glynn)) received his MS degree from Columbia University Mechanical Engineering and worked as research associate at the Center on Global Energy Policy. His research focuses on transitional energy infrastructure analysis using energy system modeling tools, especially energy infrastructure in supporting carbon-neutral economic development. He is also an active member of the Energy System Modeling Program at the Center on Global Energy Policy (CGEP), SIPA, Columbia University.
 <br />
-
+<br />
 
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
@@ -55,7 +55,6 @@ classes: wide
   margin-left: 0px;" src="/assets/images/saud.jpg" width="150px" >
 
 **Saud Alghumayjan**  received his B.Sc. degree in Electrical Engineering from King Saud University in 2018. He obtained his M.S. degree in Electrical Engineering from Columbia University in 2022. Before joining Columbia University he worked at the Center for Complex Engineering Systems at KACST and MIT as a Research Specialist where he tackled various problems related to power systems such as Electiricy Fraud Detection and Time-series Forecasting. Saud's research interests are in the areas of machine and statistical learning, optimization, and computational modeling.
-<br />
 <br />
 
 
