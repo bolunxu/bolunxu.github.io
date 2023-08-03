@@ -15,7 +15,6 @@ classes: wide
 [**Ming Yi**](https://yiminghit.github.io/) is a postdoctoral research scientist in Data Science Institute at Columbia University. He received his Ph.D. degree in Electrical Engineering from Rensselaer Polytechnic Institute in 2022. During his Ph.D. study, he interned at the Argonne National Laboratory. He received a M.S degree in Control Science and Engineering from the Harbin Institute of Technology and a B.E. degree in Automation from Harbin Engineering University in 2018 and 2016, respectively. His current research focuses on machine Learning, energy storage,  power system economics, and resilience of power system networks.
 <br />
 <br />
-<br />
 
 #### PhD Students
 
@@ -47,7 +46,6 @@ classes: wide
   margin-left: 0px;" src="/assets/images/fan.jpg" width="150px" >
 
 **Zhiyuan Fan** (joint with [James Glynn](https://www.energypolicy.columbia.edu/dr-james-glynn)) worked as research associate at the Center on Global Energy Policy and as a graduate student researcher at the Sustainable Engineering Lab in Columbia University’s Mechanical Engineering Department. His research focuses on transitional energy infrastructure analysis using energy system modeling tools, especially energy infrastructure in supporting carbon-neutral economic development. He is also an active member of the Energy System Modeling Program at the Center on Global Energy Policy (CGEP), SIPA, Columbia University.
-<br />
 <br />
 
 
