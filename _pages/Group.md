@@ -5,6 +5,18 @@ author_profile: false
 classes: wide
 ---
 
+#### PostDocs
+
+<img style="float: left;  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/ming.jpg" width="150px" >
+
+[**Ming Yi**](https://yiminghit.github.io/) is a postdoctoral research scientist in Data Science Institute at Columbia University. He received his Ph.D. degree in Electrical Engineering from Rensselaer Polytechnic Institute in 2022. During his Ph.D. study, he interned at the Argonne National Laboratory. He received a M.S degree in Control Science and Engineering from the Harbin Institute of Technology and a B.E. degree in Automation from Harbin Engineering University in 2018 and 2016, respectively. His current research focuses on machine Learning, energy storage,  power system economics, and resilience of power system networks.
+<br />
+<br />
+<br />
+
 #### PhD Students
 
 <img style="float: left;  margin-top: 10px;
@@ -17,14 +29,7 @@ classes: wide
 <br />
 <br />
 
-<img style="float: left;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/umar.png" width="150px" >
 
-[**Umar Salman**](www.linkedin.com/in/umar-salman-851a9469) received the B.S. degree in Electrical/Electronic Engineering from the University of Lagos, Nigeria in 2015. He obtained the M.S. degree in Electrical Engineering from King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia in 2020. Before joining Columbia University, he was a research assistant at the Research Institute, KFUPM and the National Power Academy, Saudi Arabia. His research interests include modeling, and optimization of complex systems, such as energy storage systems, energy markets and  application machine learning to power systems.
-<br />
-<br />
 
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
@@ -55,7 +60,17 @@ classes: wide
 <br />
 <br />
 
-#### MS Students
+
+<img style="float: left;  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/cohn.jpg" width="150px" >
+
+[**Elizabeth Cohn**](https://github.com/ecohn44) (joint with [Upmanu Lall](http://www.columbia.edu/~ula2/)) received her B.S. degree in Electrical Engineering and Mathematics from Johns Hopkins University in 2020. Before joining the PhD program at Columbia University, she worked as a data scientist for Optum where she created AI/ML solutions to improve their health service offerings. Eliza's research interests include renewable energy, the power grid,  water systems, and methods to design equitable management strategies for the water-energy nexus in the face of climate change.
+<br />
+<br />
+
+<!-- #### MS Students
 
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
@@ -108,4 +123,4 @@ classes: wide
 *Akira Higaki*, Computer Science, 2021<br />
 *Luiz do Valle*, Computer Science, 2020<br />
 *Felipe Couto*, Mechanical Engineering, 2020<br />
-*Wenting Ma*, Electrical Engineering, Tsinghua University (visitor), 2020
+*Wenting Ma*, Electrical Engineering, Tsinghua University (visitor), 2020 -->
