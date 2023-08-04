@@ -12,7 +12,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/ming.jpeg" width="165px" >
 
-[**Ming Yi**](https://yiminghit.github.io/) is a postdoctoral research scientist in Data Science Institute at Columbia University. He received his Ph.D. degree in Electrical Engineering from Rensselaer Polytechnic Institute in 2022. During his Ph.D. study, he interned at the Argonne National Laboratory. He received a M.S degree in Control Science and Engineering from the Harbin Institute of Technology and a B.E. degree in Automation from Harbin Engineering University in 2018 and 2016, respectively. His current research focuses on machine learning, energy storage,  power system economics, and resilience of power system networks.
+[**Ming Yi**](https://yiminghit.github.io/) is a postdoctoral research scientist in Data Science Institute at Columbia University. He received his Ph.D. degree in Electrical Engineering from Rensselaer Polytechnic Institute in 2022. He was a intern at the Argonne National Laboratory. He received a M.S degree in Control Science and Engineering from the Harbin Institute of Technology in 2018 and a B.E. degree in Automation from Harbin Engineering University in 2016. His current research focuses on machine learning, energy storage,  power system economics and resilience.
 <br />
 <br />
 
