@@ -12,7 +12,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/ming.jpg" width="150px" >
 
-[**Ming Yi**](https://yiminghit.github.io/) is a postdoctoral research scientist in Data Science Institute at Columbia University. He received his Ph.D. degree in Electrical Engineering from Rensselaer Polytechnic Institute in 2022. During his Ph.D. study, he interned at the Argonne National Laboratory. He received a M.S degree in Control Science and Engineering from the Harbin Institute of Technology and a B.E. degree in Automation from Harbin Engineering University in 2018 and 2016, respectively. His current research focuses on machine Learning, energy storage,  power system economics, and resilience of power system networks.
+[**Ming Yi**](https://yiminghit.github.io/) is a postdoctoral research scientist in Data Science Institute at Columbia University. He received his Ph.D. degree in Electrical Engineering from Rensselaer Polytechnic Institute in 2022. During his Ph.D. study, he interned at the Argonne National Laboratory. He received a M.S degree in Control Science and Engineering from the Harbin Institute of Technology and a B.E. degree in Automation from Harbin Engineering University in 2018 and 2016, respectively. His current research focuses on machine learning, energy storage,  power system economics, and resilience of power system networks.
 <br />
 <br />
 
@@ -35,7 +35,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/liudong.jpg" width="150px" >
 
-**Liudong Chen** received the B.S. and M.S. degrees in Electric Engineering from North China Electric Power University, Beijing, China. Before joining Columbia, he was a research assistant at State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources, North China Electric Power University, Beijing, China. His research interests include energy system economics and optimization and social behavioral modeling.
+**Liudong Chen** received his B.S. and M.S. degrees in Electric Engineering from North China Electric Power University, Beijing, China. Before joining Columbia, he was a research assistant at State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources, North China Electric Power University, Beijing, China. His research interests include energy system economics and optimization and social behavioral modeling.
 <br />
 <br />
 <br />
