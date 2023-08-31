@@ -67,6 +67,17 @@ classes: wide
 <br />
 <br />
 
+#### Visitors
+
+<img style="float: left;  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/zhiyi.jpg" width="165px" >
+
+**Zhiyi (Zoey) Zhou** is a visiting student from Xi’an Jiaotong University. She received her B.S. degree in Electrical Engineering from Tsinghua University in 2021. Before visiting Columbia, she was a research assistant at State Key Laboratory of Electrical Insulation and Power Equipment, Xi’an Jiaotong University, China. Zoey’s research interests include distributed control and optimization for energy system.
+<br />
+<br />
+
 <!-- #### MS Students
 
 <img style="float: left;  margin-top: 10px;
