@@ -15,7 +15,9 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
-<font color='gray' size='6' >*2023/07:*</font><br /> [Sides](assets/files/Xu_Aachen.pdf) from my recent talk at RWTH Aachen University provides a good overview of our work on energy storage.
+<font color='gray' size='12' ><b>2023/07:</b></font><br />
+<p style=”padding: 0px; margin: 0px;”> [Sides](assets/files/Xu_Aachen.pdf) from my recent talk at RWTH Aachen University provides a good overview of our work on energy storage.
+</p> 
 
 *2023/06:* New paper published in [Joule](https://www.cell.com/joule/pdf/S2542-4351(23)00211-8.pdf) about market design for energy storage.
 
