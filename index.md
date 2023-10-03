@@ -15,7 +15,7 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
-###### <span style="color:gray">**July 2023**</span>  
+<span style="color:gray">**July 2023**</span>  
 My [talk](assets/files/Xu_Aachen.pdf) from RWTH Aachen provides a good overview of our work on energy storage.
 
 <span style="color:gray">**July 2023**</span>  
