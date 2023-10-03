@@ -15,23 +15,23 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
-<span style="color:gray">July 2023</span>  
+<span style="color:gray">**July 2023**</span>  
 My [talk](assets/files/Xu_Aachen.pdf) from RWTH Aachen provides a good overview of our work on energy storage.
 
-<span style="color:gray">July 2023</span>  
+<span style="color:gray">**July 2023**</span>  
 New research article published in [Joule](https://www.cell.com/joule/pdf/S2542-4351(23)00211-8.pdf) about market design for energy storage.
 
-<span style="color:gray">June 2023</span>  
+<span style="color:gray">**June 2023**</span>  
 Transferable energy storage bidder published in [TPWRS](https://ieeexplore.ieee.org/document/10138051).
 
-<span style="color:gray">April 2023</span>  
+<span style="color:gray">**April 2023**</span>  
 Honored to receive the [Outstanding Young Investigator Award](https://www.linkedin.com/posts/bolun-xu-07132373_honored-to-receive-the-iise-energy-systems-activity-7070032945574502400-SCC3?utm_source=share&utm_medium=member_desktop) from IISE Energy Systems Division!
 
 
-<span style="color:gray">January 2023</span>  
+<span style="color:gray">**January 2023**</span>  
 Our SoC market model for energy storage has been published in the new
   <a class="post-link" href="https://ieeexplore.ieee.org/document/10021874">IEEE Transactions on Energy Markets, Policy and Regulation</a> journal.
 
-<span style="color:gray">January 2023</span>  
+<span style="color:gray">**January 2023**</span>  
 Honored to receive the
   <a class="post-link" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239046&HistoricalAwards=false">NSF CAREER award</a> to work on energy storage grid integration.
