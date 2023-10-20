@@ -15,6 +15,9 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
+<span style="color:gray">**October 2023**</span>  
+Honored to receive the [Early Career Best Paper Award](https://www.linkedin.com/posts/bolun-xu-07132373_it-was-wonderful-having-such-a-packed-house-activity-7120966425162207232-sBa6?utm_source=share&utm_medium=member_desktop) from Infoms ENRE!
+
 <span style="color:gray">**July 2023**</span>  
 My [talk](assets/files/Xu_Aachen.pdf) from RWTH Aachen provides a good overview of our work on energy storage.
 
@@ -29,8 +32,8 @@ Honored to receive the [Outstanding Young Investigator Award](https://www.linked
 
 
 <span style="color:gray">**January 2023**</span>  
-Our SoC market model for energy storage has been published in the new
-  <a class="post-link" href="https://ieeexplore.ieee.org/document/10021874">IEEE Transactions on Energy Markets, Policy and Regulation</a> journal.
+Our SoC market model for energy storage published in the new
+  <a class="post-link" href="https://ieeexplore.ieee.org/document/10021874">TEMPR</a> journal.
 
 <span style="color:gray">**January 2023**</span>  
 Honored to receive the
