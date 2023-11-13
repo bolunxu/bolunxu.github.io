@@ -117,7 +117,7 @@ Algorithms for bidding energy storage to arbitrage in wholesale markets. Referen
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 45px;
-  margin-left: 0px;" src="/assets/codes/figures/joule.jpg" width="800px" >
+  margin-left: 0px;" src="/assets/codes/figures/joule.jpg" width="300px" >
 <br />
 A two-stage market clearing simulation framework to assess energy storage participation in day-ahead and real-time markets. Reference paper is [here](https://www.sciencedirect.com/science/article/pii/S2542435123002118).
 
