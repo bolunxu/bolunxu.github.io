@@ -97,7 +97,8 @@ The code compares different degradation models in grid optimization. Reference p
 <br />
 <br />
 <br />
-#### Comparing different battery degradation models in power system optimization
+<br />
+#### Transferable energy storage bidder
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 45px;
@@ -106,3 +107,18 @@ The code compares different degradation models in grid optimization. Reference p
 Algorithms for bidding energy storage to arbitrage in wholesale markets. Reference paper is [here](https://arxiv.org/pdf/2301.01233.pdf).
 
 [Code](https://github.com/ybaker661/LSTM-Value-Prediction) in Python.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+#### Assessing market participation for energy storage
+<img style="float: left;  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 45px;
+  margin-left: 0px;" src="/assets/codes/figures/joule.jpg" width="800px" >
+<br />
+A two-stage market clearing simulation framework to assess energy storage participation in day-ahead and real-time markets. Reference paper is [here](https://www.sciencedirect.com/science/article/pii/S2542435123002118).
+
+[Code](https://github.com/Huskyseen/Storage_Market) in Matlab.

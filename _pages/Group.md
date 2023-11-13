@@ -61,7 +61,7 @@ classes: wide
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/cohn.jpeg" width="165px" >
+  margin-left: 0px;" src="/assets/images/cohn.jpg" width="165px" >
 
 [**Elizabeth Cohn**](https://github.com/ecohn44) (joint with [Upmanu Lall](http://www.columbia.edu/~ula2/)) received her B.S. degree in Electrical Engineering and Mathematics from Johns Hopkins University in 2020. Before joining the PhD program at Columbia University, she worked as a data scientist for Optum where she created AI/ML solutions to improve their health service offerings. Eliza's research interests include renewable energy, the power grid,  water systems, and methods to design equitable management strategies for the water-energy nexus in the face of climate change.
 <br />
