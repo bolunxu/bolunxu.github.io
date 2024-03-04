@@ -112,7 +112,6 @@ Algorithms for bidding energy storage to arbitrage in wholesale markets. Referen
 <br />
 <br />
 <br />
-<br />
 #### Assessing market participation for energy storage
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
@@ -121,4 +120,4 @@ Algorithms for bidding energy storage to arbitrage in wholesale markets. Referen
 <br />
 A two-stage market clearing simulation framework to assess energy storage participation in day-ahead and real-time markets. Reference paper is [here](https://www.sciencedirect.com/science/article/pii/S2542435123002118).
 
-[Code](https://github.com/Huskyseen/Storage_Market) in Matlab.
+[Code](https://github.com/Huskyseen/Storage_Market) in Matlab (requires Gurobi).

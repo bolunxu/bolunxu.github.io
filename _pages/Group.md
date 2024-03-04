@@ -16,6 +16,15 @@ classes: wide
 <br />
 <br />
 
+<img style="float: left;  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/ning.jpeg" width="165px" >
+
+[**Ning Qi**] is a postdoctoral research scientist in Earth and Environmental Engineering at Columbia University. He received his Ph.D. degree in Electrical Engineering from Tsinghua University in 2023. Before joining Columbia, he was the postdoc at Digital Power System (DPS) lab at Department of Electrical Engineering, Tsinghua University. He was a visiting scholar at Technical University of Denmark in 2022. He received a B.E. degree in Electrical Engineering from Tianjin University in 2018. His current research focuses on data-driven modeling, optimization under uncertainty and market design for generic energy storage.
+<br />
+<br />
+
 #### PhD Students
 
 <img style="float: left;  margin-top: 10px;
@@ -72,9 +81,16 @@ classes: wide
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/zhiyi.jpg" width="165px" >
+  margin-left: 0px;" src="/assets/images/xueyuan.jpeg" width="165px" >
 
-**Zhiyi (Zoey) Zhou** is a visiting student from Xi’an Jiaotong University. She received her B.S. degree in Electrical Engineering from Tsinghua University in 2021. Before visiting Columbia, she was a research assistant at State Key Laboratory of Electrical Insulation and Power Equipment, Xi’an Jiaotong University, China. Zoey’s research interests include distributed control and optimization for energy system.
+**Xueyuan Cui**  is a visiting student from The University of Hong Kong.
+He received his B.E. and M.S. degrees in Electrical Engineering from
+Zhejiang University in 2019 and 2022, respectively. He is now pursuing
+his Ph.D. degree at The University of Hong Kong. Before visiting
+Columbia, he was a visiting student at University of MONS, Belgium.
+His research interests include data-driven modeling and flexibility
+analysis of building energy systems." Please let me know if any
+problems.
 <br />
 <br />
 
