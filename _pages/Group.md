@@ -21,7 +21,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/ning.jpeg" width="165px" >
 
-[**Ning Qi**] is a postdoctoral research scientist in Earth and Environmental Engineering at Columbia University. He received his Ph.D. degree in Electrical Engineering from Tsinghua University in 2023. Before joining Columbia, he was the postdoc at Digital Power System (DPS) lab at Department of Electrical Engineering, Tsinghua University. He was a visiting scholar at Technical University of Denmark in 2022. He received a B.E. degree in Electrical Engineering from Tianjin University in 2018. His current research focuses on data-driven modeling, optimization under uncertainty and market design for generic energy storage.
+**Ning Qi** is a postdoctoral research scientist in Earth and Environmental Engineering at Columbia University. He received his Ph.D. degree in Electrical Engineering from Tsinghua University in 2023. Before joining Columbia, he was the postdoc at Digital Power System (DPS) lab at Department of Electrical Engineering, Tsinghua University. He was a visiting scholar at Technical University of Denmark in 2022. He received a B.E. degree in Electrical Engineering from Tianjin University in 2018. His current research focuses on data-driven modeling, optimization under uncertainty and market design for generic energy storage.
 <br />
 <br />
 
