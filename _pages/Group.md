@@ -89,8 +89,7 @@ Zhejiang University in 2019 and 2022, respectively. He is now pursuing
 his Ph.D. degree at The University of Hong Kong. Before visiting
 Columbia, he was a visiting student at University of MONS, Belgium.
 His research interests include data-driven modeling and flexibility
-analysis of building energy systems." Please let me know if any
-problems.
+analysis of building energy systems.
 <br />
 <br />
 
