@@ -15,6 +15,10 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
+<span style="color:gray">**April 2024**</span>  
+Congratulations to [Eliza Cohn](https://bolunxu.github.io/group/) for receiving the NSF Graduate Research Fellowship!
+
+
 <span style="color:gray">**October 2023**</span>  
 Honored to receive the [Early Career Best Paper Award](https://www.linkedin.com/posts/bolun-xu-07132373_it-was-wonderful-having-such-a-packed-house-activity-7120966425162207232-sBa6?utm_source=share&utm_medium=member_desktop) from Infoms ENRE!
 
