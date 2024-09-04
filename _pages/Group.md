@@ -76,20 +76,22 @@ classes: wide
 <br />
 <br />
 
-#### Visitors
-
-<img style="float: left;  margin-top: 10px;
+<img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/xueyuan.jpeg" width="165px" >
+  margin-left: 0px;" src="/assets/images/yousuf.jpeg" width="165px" >
 
-**Xueyuan Cui**  is a visiting student from The University of Hong Kong.
-He received his B.E. and M.S. degrees in Electrical Engineering from
-Zhejiang University in 2019 and 2022, respectively. He is now pursuing
-his Ph.D. degree at The University of Hong Kong. Before visiting
-Columbia, he was a visiting student at University of MONS, Belgium.
-His research interests include data-driven modeling and flexibility
-analysis of building energy systems.
+**Yousuf Baker** received his B.Sc in Electrical Engineering from Boston University in 2021 and his M.S. degree in Electrical Engineering from Columbia University in 2022. Prior to returning for his PhD, Yousuf acted as Project Lead of a research team for the UAE government, and was a research assistant with the Bolun Xu Group. His research is focused power system economics and on the intersection of optimization, controls, and statistical learning methods for high renewables energy systems.
+<br />
+<br />
+
+<img style="float: left;  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/emily.jpeg" width="165px" >
+
+**Emily Logan** received her B.S. and M.Eng. degrees in Mechanical Engineering from Cornell University. Before joining Columbia University, she worked as a Mechanical Design Engineer at Tesla, focusing on large-scale battery storage systems and electric vehicle chargers. Emily’s research interests include renewable energy, energy storage, and the power grid.
+<br />
 <br />
 <br />
 
