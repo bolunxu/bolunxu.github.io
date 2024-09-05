@@ -95,6 +95,38 @@ classes: wide
 <br />
 <br />
 
+#### Master Research Students
+
+<img style="float: left;  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/ruijia.jpeg" width="165px" >
+
+**Ruijia (Amalia)** Wang received her B.S. degree in Mathematics and Economics from the University of California, Los Angeles, and is currently pursuing her M.S. degree in Operations Research at Columbia University. Her research focuses on optimizing bidding strategies in the energy market. She was also an operational analyst intern at Goldman Sachs designing business intelligence model for process optimization. Her research interests include energy market optimization, machine learning, and AI applications in finance.
+<br />
+<br />
+
+<img style="float: left;  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/neal.jpg" width="165px" >
+
+**Neal Ma** received his B.S. in Physics from Yale University in 2023 and is currently pursuing an M.S. at Columbia in Earth and Environmental Engineering with a concentration in Sustainable Energy. His research interests include modeling renewable energy sources, energy storage, and distributed energy resources.
+<br />
+<br />
+<br />
+
+#### Undergraduate Research Students
+
+<img style="float: left;  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/justin.png" width="165px" >
+
+**Justin Clarke**, hailing from Jamaica, is an undergraduate research assistant at Columbia University, studying Computer Science with a focus on AI/ML and minoring in Psychology, and is a distinguished C.P. Davis Scholar. He worked with the Jamaica Constabulary Force’s Technology Branch on innovation strategies and also tutors mathematics. Justin holds leadership positions in campus residential communities and cultural organizations, promoting inclusion and engagement.
+<br />
+<br />
+<br />
 <!-- #### MS Students
 
 <img style="float: left;  margin-top: 10px;
