@@ -102,7 +102,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/ruijia.jpeg" width="165px" >
 
-**Ruijia (Amalia)** Wang received her B.S. degree in Mathematics and Economics from the University of California, Los Angeles, and is currently pursuing her M.S. degree in Operations Research at Columbia University. Her research focuses on optimizing bidding strategies in the energy market. She was also an operational analyst intern at Goldman Sachs designing business intelligence model for process optimization. Her research interests include energy market optimization, machine learning, and AI applications in finance.
+**Ruijia (Amalia) Wang** received her B.S. degree in Mathematics and Economics from the University of California, Los Angeles, and is currently pursuing her M.S. degree in Operations Research at Columbia University. Her research focuses on optimizing bidding strategies in the energy market. She was also an operational analyst intern at Goldman Sachs designing business intelligence model for process optimization. Her research interests include energy market optimization, machine learning, and AI applications in finance.
 <br />
 <br />
 
