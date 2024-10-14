@@ -15,6 +15,9 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
+<span style="color:gray">**October 2024**</span>
+Postdoc opening on process optimization for hydrogen and CO2 electrolyzer. Please apply [here](https://apply.interfolio.com/156013).
+
 <span style="color:gray">**April 2024**</span>  
 Congratulations to [Eliza Cohn](https://bolunxu.github.io/group/) for receiving the NSF Graduate Research Fellowship!
 

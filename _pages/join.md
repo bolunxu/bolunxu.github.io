@@ -8,11 +8,13 @@ classes: wide
 ---
 #### Postdoc Opportunities
 
+I'm seeking a postdoc to start before July 2025 to work on process optimization for hydrogen and CO2 electrolyzer. Please apply through the application portal [here](https://apply.interfolio.com/156013).
+
 Please check out postdoc fellowship opportunities at [Data Science Institute](https://datascience.columbia.edu/) and [Earth Institute](https://www.earth.columbia.edu/articles/view/55), and email me if either suits your interest. Please be mindful about the application deadline.
 
 #### Prospective PhD students
 
-If you are interested in working with me, please send me an email with your resume, and apply to the PhD program at Columbia Earth and Environmental Engineering.
+I'm always looking for motivated students with strong interests in applying optimization and machine learning in energy systems. If you are interested in working with me, please send me an email with your resume, and apply to the PhD program at Columbia Earth and Environmental Engineering.
 
 #### Research Opportunities for MS and Undergraduate Students
 
