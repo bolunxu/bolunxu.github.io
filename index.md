@@ -15,6 +15,15 @@ My CV is [here](assets/files/Xu_CV.pdf).
 
 
 #### Updates
+<span style="color:gray">**December 2024**</span>
+Congratulations to [Nik](https://ningkunzheng.github.io/) for successfully defensing his thesis!
+
+<img style="float: left;  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/20241203204603.jpg" width="500px" >
+
+
 <span style="color:gray">**October 2024**</span>
 Postdoc opening on process optimization for hydrogen and CO2 electrolyzer. Please apply [here](https://apply.interfolio.com/156013).
 
