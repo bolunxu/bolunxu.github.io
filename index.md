@@ -41,8 +41,7 @@ Congratulations to [Nik](https://ningkunzheng.github.io/) for successfully defen
   <br />
   <br />
 
-<span style="color:gray">**October 2024**</span>
-
+<span style="color:gray">**October 2024**</span><br />
 Postdoc opening on process optimization for hydrogen and CO2 electrolyzer. Please apply [here](https://apply.interfolio.com/156013).
 
 <span style="color:gray">**April 2024**</span>  
