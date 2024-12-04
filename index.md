@@ -21,7 +21,7 @@ Congratulations to [Nik](https://ningkunzheng.github.io/) for successfully defen
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/20241203204603.jpg" width="700px" >
+  margin-left: 0px;" src="/assets/images/20241203204603.jpg" width="600px" >
   <br />
   <br />
   <br />
