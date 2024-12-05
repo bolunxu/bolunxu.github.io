@@ -26,7 +26,7 @@ classes: wide
 <br />
 
 #### PhD Students
-
+<!--
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
@@ -35,7 +35,7 @@ classes: wide
 [**Ningkun (Nik) Zheng**](https://ningkunzheng.github.io/) received B.S. degree from Zhejiang University, Zhejiang, China in 2018; M.S. degree from Johns Hopkins University, Baltimore, MD, USA, in 2019.  Before joining Columbia, he was a research assistant at Carnegie Mellon Electricity Industry Center, Carnegie Mellon University, Pittsburgh, PA, USA. His research interests include power system economic and energy storage.
 <br />
 <br />
-<br />
+<br /> -->
 
 
 
@@ -127,3 +127,8 @@ classes: wide
 <br />
 <br />
 <br />
+
+#### Alumni
+
+[**Ningkun (Nik) Zheng**](https://ningkunzheng.github.io/) (PhD, 2024) Senior Quantitive Analyst, Baltimore Gas and Electric Company
+Joshua Jaworski (MS, 2022)
