@@ -131,4 +131,3 @@ classes: wide
 #### Alumni
 
 [**Ningkun (Nik) Zheng**](https://ningkunzheng.github.io/) (PhD, 2024) Senior Quantitive Analyst, Baltimore Gas and Electric Company
-Joshua Jaworski (MS, 2022)
