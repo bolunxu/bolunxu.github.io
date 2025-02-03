@@ -44,7 +44,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/liudong.jpeg" width="165px" >
 
-**Liudong Chen** received his B.S. and M.S. degrees in Electric Engineering from North China Electric Power University, Beijing, China. Before joining Columbia, he was a research assistant at State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources, North China Electric Power University, Beijing, China. His research interests include energy system economics and optimization and social behavioral modeling.
+[**Liudong Chen**](https://liudong-chen.github.io/) received his B.S. and M.S. degrees in Electric Engineering from North China Electric Power University, Beijing, China. Before joining Columbia, he was a research assistant at State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources, North China Electric Power University, Beijing, China. His research interests include energy system economics and optimization and social behavioral modeling.
 <br />
 <br />
 <br />
@@ -54,7 +54,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/fan.jpeg" width="165px" >
 
-**Zhiyuan Fan** (joint with [James Glynn](https://www.energypolicy.columbia.edu/dr-james-glynn)) received his M.S. degree from Columbia University Mechanical Engineering and worked as research associate at the Center on Global Energy Policy. His research focuses on transitional energy infrastructure analysis using energy system modeling tools, especially energy infrastructure in supporting carbon-neutral economic development. He is also an active member of the Energy System Modeling Program at the Center on Global Energy Policy (CGEP), SIPA, Columbia University.
+**Zhiyuan Fan** received his M.S. degree from Columbia University Mechanical Engineering and worked as research associate at the Center on Global Energy Policy. His research focuses on transitional energy infrastructure analysis using energy system modeling tools, especially energy infrastructure in supporting carbon-neutral economic development. He is also an active member of the Energy System Modeling Program at the Center on Global Energy Policy (CGEP), SIPA, Columbia University.
 <br />
 <br />
 
@@ -95,7 +95,7 @@ classes: wide
 <br />
 <br />
 
-#### Master Research Students
+<!-- #### Master Research Students
 
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
@@ -114,7 +114,7 @@ classes: wide
 **Neal Ma** received his B.S. in Physics from Yale University in 2023 and is currently pursuing an M.S. at Columbia in Earth and Environmental Engineering with a concentration in Sustainable Energy. His research interests include modeling renewable energy sources, energy storage, and distributed energy resources.
 <br />
 <br />
-<br />
+<br />-->
 
 #### Undergraduate Research Students
 
@@ -128,6 +128,46 @@ classes: wide
 <br />
 <br />
 
+#### Visitors
+
+<img style="float: left;  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/yuxin.jpg" width="165px" >
+
+**Yuxin Ma** is a visiting student in Earth and Environmental Engineering at Columbia University. She received her B.S. degree in Electrical Engineering from Tsinghua University in 2021, where she is now pursuing her Ph.D. degree. Her research interests include optimal frequency control of power systems and optimal operation of energy storage systems..
+<br />
+<br />
+<br />
+
+
+
 #### Alumni
 
-[**Ningkun (Nik) Zheng**](https://ningkunzheng.github.io/) (PhD, 2024) Senior Quantitive Analyst, Baltimore Gas and Electric Company
+[**Ningkun (Nik) Zheng**](https://ningkunzheng.github.io/) (PhD, Earth and Environmental Engineering, 2024), Baltimore Gas and Electric Company
+
+<br />
+<br />
+
+**Ruijia Wang** (MS, Operation Research, 2024), Caerus Commodities
+
+**Neal Ma** (MS, Earth and Environmental Engineering, 2024), SPAN
+
+**Umar Salman** (MS, Earth and Environmental Engineering, 2023), University of Connecticut (PhD student)
+
+**Joshua Jaworski** (MS, Electrical Engineering, 2022), First Quantum Minerals
+
+<br />
+<br />
+
+**Steven Liu** (BS, Computer Science, 2022), Balyasny Asset Management
+
+
+#### Past Visitors
+**Xueyuan Cui**, Hongkong University
+
+**Zhiyi Zhou**, Xi'an Jiaotong University
+
+**Wenting Ma**, Tsinghua University
+
+Alumni and past visitors detailed [bios](https://bolunxu.github.io/alumni/)
