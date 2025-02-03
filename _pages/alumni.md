@@ -93,7 +93,6 @@ problems.
 <br />
 <br />
 <br />
-<br />
 
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
