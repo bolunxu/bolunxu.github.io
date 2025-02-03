@@ -145,8 +145,6 @@ classes: wide
 
 [**Ningkun (Nik) Zheng**](https://ningkunzheng.github.io/) (PhD, Earth and Environmental Engineering, 2024), Baltimore Gas and Electric Company
 
-<br />
-
 **Ruijia Wang** (MS, Operation Research, 2024), Caerus Commodities
 
 **Neal Ma** (MS, Earth and Environmental Engineering, 2024), SPAN
@@ -154,8 +152,6 @@ classes: wide
 **Umar Salman** (MS, Earth and Environmental Engineering, 2023), University of Connecticut (PhD student)
 
 **Joshua Jaworski** (MS, Electrical Engineering, 2022), First Quantum Minerals
-
-<br />
 
 **Steven Liu** (BS, Computer Science, 2022), Balyasny Asset Management
 
@@ -165,4 +161,6 @@ classes: wide
 
 **Zhiyi Zhou**, Xi'an Jiaotong University
 
-Alumni and past visitors detailed [bios](https://bolunxu.github.io/alumni/)
+<br />
+
+**Alumni and past visitors detailed [bios](https://bolunxu.github.io/alumni/)**
