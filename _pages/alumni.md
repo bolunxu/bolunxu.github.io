@@ -47,7 +47,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/umar.png" width="165px" >
 
-**Umar Salman** received the B.S. degree in Electrical/Electronic Engineering from the University of Lagos, Nigeria in 2015. He obtained the M.S. degree in Electrical Engineering from King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia in 2020. Before joining Columbia University, he was a research assistant at the Research Institute, KFUPM and the National Power Academy, Saudi Arabia. His research interests include modeling, and optimization of complex systems, such as energy storage systems, energy markets and  application machine learning to power systems.
+**Umar Salman** received the B.S. degree in Electrical/Electronic Engineering from the University of Lagos, Nigeria in 2015. He obtained the M.S. degree in Electrical Engineering from King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia in 2020. Before joining Columbia University, he was a research assistant at the Research Institute, KFUPM and the National Power Academy, Saudi Arabia. His research interests include modeling and optimization of energy storage, energy markets, and power systems.
 <br />
 <br />
 
@@ -90,6 +90,8 @@ Columbia, he was a visiting student at University of MONS, Belgium.
 His research interests include data-driven modeling and flexibility
 analysis of building energy systems." Please let me know if any
 problems.
+<br />
+<br />
 
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
