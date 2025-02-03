@@ -147,7 +147,6 @@ classes: wide
 [**Ningkun (Nik) Zheng**](https://ningkunzheng.github.io/) (PhD, Earth and Environmental Engineering, 2024), Baltimore Gas and Electric Company
 
 <br />
-<br />
 
 **Ruijia Wang** (MS, Operation Research, 2024), Caerus Commodities
 
@@ -158,16 +157,13 @@ classes: wide
 **Joshua Jaworski** (MS, Electrical Engineering, 2022), First Quantum Minerals
 
 <br />
-<br />
 
 **Steven Liu** (BS, Computer Science, 2022), Balyasny Asset Management
 
 
 #### Past Visitors
-**Xueyuan Cui**, Hongkong University
+**Xueyuan Cui**, The University of Hong Kong
 
 **Zhiyi Zhou**, Xi'an Jiaotong University
-
-**Wenting Ma**, Tsinghua University
 
 Alumni and past visitors detailed [bios](https://bolunxu.github.io/alumni/)
