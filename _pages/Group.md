@@ -126,7 +126,6 @@ classes: wide
 **Justin Clarke**, hailing from Jamaica, is an undergraduate research assistant at Columbia University, studying Computer Science with a focus on AI/ML and minoring in Psychology, and is a distinguished C.P. Davis Scholar. He worked with the Jamaica Constabulary Force’s Technology Branch on innovation strategies and also tutors mathematics. Justin holds leadership positions in campus residential communities and cultural organizations, promoting inclusion and engagement.
 <br />
 <br />
-<br />
 
 #### Visitors
 
