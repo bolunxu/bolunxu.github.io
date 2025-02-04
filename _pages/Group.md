@@ -7,7 +7,7 @@ classes: wide
 
 #### PostDocs
 
-<img style="float: left;  margin-top: 10px;
+<img style="float: left; vertical-align: top;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/ming.jpeg" width="165px" >
@@ -16,7 +16,7 @@ classes: wide
 <br />
 <br />
 
-<img style="float: left;  margin-top: 10px;
+<img style="float: left; vertical-align: top;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/ning.jpeg" width="165px" >
@@ -27,7 +27,7 @@ classes: wide
 
 #### PhD Students
 <!--
-<img style="float: left;  margin-top: 10px;
+<img style="float: left; vertical-align: top;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/Nik_Portrait_2.jpg" width="165px" >
@@ -39,7 +39,7 @@ classes: wide
 
 
 
-<img style="float: left;  margin-top: 0px;
+<img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/liudong.png" width="165px" >
@@ -49,7 +49,7 @@ classes: wide
 <br />
 <br />
 
-<img style="float: left;  margin-top: 0px;
+<img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/fan.jpeg" width="165px" >
@@ -58,7 +58,7 @@ classes: wide
 <br />
 <br />
 
-<img style="float: left;  margin-top: 0px;
+<img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/saud.jpeg" width="165px" >
@@ -67,7 +67,7 @@ classes: wide
 <br />
 <br />
 
-<img style="float: left;  margin-top: 0px;
+<img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/cohn.jpg" width="165px" >
@@ -76,7 +76,7 @@ classes: wide
 <br />
 <br />
 
-<img style="float: left;  margin-top: 0px;
+<img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/yousuf.jpeg" width="165px" >
@@ -85,7 +85,7 @@ classes: wide
 <br />
 <br />
 
-<img style="float: left;  margin-top: 0px;
+<img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/emily.jpeg" width="165px" >
@@ -97,7 +97,7 @@ classes: wide
 
 <!-- #### Master Research Students
 
-<img style="float: left;  margin-top: 0px;
+<img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/ruijia.jpeg" width="165px" >
@@ -106,7 +106,7 @@ classes: wide
 <br />
 <br />
 
-<img style="float: left;  margin-top: 0px;
+<img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/neal.jpg" width="165px" >
@@ -118,7 +118,7 @@ classes: wide
 
 #### Undergraduate Research Students
 
-<img style="float: left;  margin-top: 0px;
+<img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/justin.png" width="165px" >
@@ -129,7 +129,7 @@ classes: wide
 
 #### Visitors
 
-<img style="float: left;  margin-top: 0px;
+<img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/yuxin.jpg" width="165px" >
