@@ -51,68 +51,37 @@ classes: wide
   </p>
 </div>
 
-<img style="float: left; vertical-align: top;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/yousuf.jpeg" width="165px" >
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/yousuf.jpeg" width="165px">
+  <p>
+    <strong>Yousuf Baker</strong> received his B.Sc in Electrical Engineering from Boston University in 2021 and his M.S. degree in Electrical Engineering from Columbia University in 2022. Prior to returning for his PhD, Yousuf acted as Project Lead of a research team for the UAE government and was a research assistant with the Bolun Xu Group. His research is focused on power system economics and on the intersection of optimization, controls, and statistical learning methods for high-renewable energy systems.
+  </p>
+</div>
 
-**Yousuf Baker** received his B.Sc in Electrical Engineering from Boston University in 2021 and his M.S. degree in Electrical Engineering from Columbia University in 2022. Prior to returning for his PhD, Yousuf acted as Project Lead of a research team for the UAE government, and was a research assistant with the Bolun Xu Group. His research is focused power system economics and on the intersection of optimization, controls, and statistical learning methods for high renewables energy systems.
-<br />
-<br />
-
-<img style="float: left; vertical-align: top;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/emily.jpeg" width="165px" >
-
-**Emily Logan** received her B.S. and M.Eng. degrees in Mechanical Engineering from Cornell University. Before joining Columbia University, she worked as a Mechanical Design Engineer at Tesla, focusing on large-scale battery storage systems and electric vehicle chargers. Emily’s research interests include renewable energy, energy storage, and the power grid.
-<br />
-<br />
-<br />
-
-<!-- #### Master Research Students
-
-<img style="float: left; vertical-align: top;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/ruijia.jpeg" width="165px" >
-
-**Ruijia (Amalia) Wang** received her B.S. degree in Mathematics and Economics from the University of California, Los Angeles, and is currently pursuing her M.S. degree in Operations Research at Columbia University. Her research focuses on optimizing bidding strategies in the energy market. She was also an operational analyst intern at Goldman Sachs designing business intelligence model for process optimization. Her research interests include energy market optimization, machine learning, and AI applications in finance.
-<br />
-<br />
-
-<img style="float: left; vertical-align: top;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/neal.jpg" width="165px" >
-
-**Neal Ma** received his B.S. in Physics from Yale University in 2023 and is currently pursuing an M.S. at Columbia in Earth and Environmental Engineering with a concentration in Sustainable Energy. His research interests include modeling renewable energy sources, energy storage, and distributed energy resources.
-<br />
-<br />
-<br />-->
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/emily.jpeg" width="165px">
+  <p>
+    <strong>Emily Logan</strong> received her B.S. and M.Eng. degrees in Mechanical Engineering from Cornell University. Before joining Columbia University, she worked as a Mechanical Design Engineer at Tesla, focusing on large-scale battery storage systems and electric vehicle chargers. Emily’s research interests include renewable energy, energy storage, and the power grid.
+  </p>
+</div>
 
 #### Undergraduate Research Students
 
-<img style="float: left; vertical-align: top;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/justin.png" width="165px" >
-
-**Justin Clarke**, hailing from Jamaica, is an undergraduate research assistant at Columbia University, studying Computer Science with a focus on AI/ML and minoring in Psychology, and is a distinguished C.P. Davis Scholar. He worked with the Jamaica Constabulary Force’s Technology Branch on innovation strategies and also tutors mathematics. Justin holds leadership positions in campus residential communities and cultural organizations, promoting inclusion and engagement.
-<br />
-<br />
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/justin.png" width="165px">
+  <p>
+    <strong>Justin Clarke</strong>, hailing from Jamaica, is an undergraduate research assistant at Columbia University, studying Computer Science with a focus on AI/ML and minoring in Psychology, and is a distinguished C.P. Davis Scholar. He worked with the Jamaica Constabulary Force’s Technology Branch on innovation strategies and also tutors mathematics. Justin holds leadership positions in campus residential communities and cultural organizations, promoting inclusion and engagement.
+  </p>
+</div>
 
 #### Visitors
 
-<img style="float: left; vertical-align: top;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/yuxin.jpg" width="165px" >
-
-**Yuxin Ma** is a visiting student in Earth and Environmental Engineering at Columbia University. She received her B.S. degree in Electrical Engineering from Tsinghua University in 2021, where she is now pursuing her Ph.D. degree. Her research interests include optimal frequency control of power systems and optimal operation of energy storage systems..
-<br />
-<br />
-<br />
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/yuxin.jpg" width="165px">
+  <p>
+    <strong>Yuxin Ma</strong> is a visiting student in Earth and Environmental Engineering at Columbia University. She received her B.S. degree in Electrical Engineering from Tsinghua University in 2021, where she is now pursuing her Ph.D. degree. Her research interests include optimal frequency control of power systems and optimal operation of energy storage systems.
+  </p>
+</div>
 
 
 
