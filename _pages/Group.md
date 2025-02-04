@@ -30,32 +30,26 @@ classes: wide
   </p>
 </div>
 
-<img style="float: left; vertical-align: top;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/fan.jpeg" width="165px" >
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/fan.jpeg" width="165px">
+  <p>
+    <strong>Zhiyuan Fan</strong> received his M.S. degree from Columbia University Mechanical Engineering and worked as a research associate at the Center on Global Energy Policy. His research focuses on transitional energy infrastructure analysis using energy system modeling tools, especially energy infrastructure in supporting carbon-neutral economic development. He is also an active member of the Energy System Modeling Program at the Center on Global Energy Policy (CGEP), SIPA, Columbia University.
+  </p>
+</div>
 
-**Zhiyuan Fan** received his M.S. degree from Columbia University Mechanical Engineering and worked as research associate at the Center on Global Energy Policy. His research focuses on transitional energy infrastructure analysis using energy system modeling tools, especially energy infrastructure in supporting carbon-neutral economic development. He is also an active member of the Energy System Modeling Program at the Center on Global Energy Policy (CGEP), SIPA, Columbia University.
-<br />
-<br />
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/saud.jpeg" width="165px">
+  <p>
+    <strong>Saud Alghumayjan</strong> received his B.Sc. degree in Electrical Engineering from King Saud University in 2018 and his M.S. degree in Electrical Engineering from Columbia University in 2022. Before joining Columbia University, he worked at the Center for Complex Engineering Systems at KACST and MIT as a Research Specialist where he tackled various problems related to power systems such as Electricity Fraud Detection and Time-series Forecasting. Saud's research interests are in the areas of machine and statistical learning, optimization, and computational modeling.
+  </p>
+</div>
 
-<img style="float: left; vertical-align: top;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/saud.jpeg" width="165px" >
-
-**Saud Alghumayjan**  received his B.Sc. degree in Electrical Engineering from King Saud University in 2018 and his M.S. degree in Electrical Engineering from Columbia University in 2022. Before joining Columbia University he worked at the Center for Complex Engineering Systems at KACST and MIT as a Research Specialist where he tackled various problems related to power systems such as Electiricy Fraud Detection and Time-series Forecasting. Saud's research interests are in the areas of machine and statistical learning, optimization, and computational modeling.
-<br />
-<br />
-
-<img style="float: left; vertical-align: top;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/cohn.jpg" width="165px" >
-
-[**Elizabeth Cohn**](https://github.com/ecohn44) (joint with [Upmanu Lall](http://www.columbia.edu/~ula2/)) received her B.S. degree in Electrical Engineering and Mathematics from Johns Hopkins University in 2020. Before joining the PhD program at Columbia University, she worked as a data scientist for Optum where she created AI/ML solutions to improve their health service offerings. Eliza's research interests include renewable energy, the power grid,  water systems, and methods to design equitable management strategies for the water-energy nexus in the face of climate change.
-<br />
-<br />
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/cohn.jpg" width="165px">
+  <p>
+    <a href="https://github.com/ecohn44"><strong>Elizabeth Cohn</strong></a> (joint with <a href="http://www.columbia.edu/~ula2/">Upmanu Lall</a>) received her B.S. degree in Electrical Engineering and Mathematics from Johns Hopkins University in 2020. Before joining the PhD program at Columbia University, she worked as a data scientist for Optum where she created AI/ML solutions to improve their health service offerings. Eliza's research interests include renewable energy, the power grid, water systems, and methods to design equitable management strategies for the water-energy nexus in the face of climate change.
+  </p>
+</div>
 
 <img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
