@@ -15,7 +15,7 @@ classes: wide
   margin-right: 10px;
   margin-left: 0px;" src="/assets/images/Nik_Portrait_2.jpg" width="165px" >
 
-[**Ningkun (Nik) Zheng**](https://ningkunzheng.github.io/) received B.S. degree from Zhejiang University, Zhejiang, China in 2018; M.S. degree from Johns Hopkins University, Baltimore, MD, USA, in 2019.  Before joining Columbia, he was a research assistant at Carnegie Mellon Electricity Industry Center, Carnegie Mellon University, Pittsburgh, PA, USA. His research interests include power system economic and energy storage.
+[**Ningkun (Nik) Zheng**](https://ningkunzheng.github.io/) joined in 2021 and received his PhD degree in 2024. He received B.S. degree from Zhejiang University, Zhejiang, China in 2018; M.S. degree from Johns Hopkins University, Baltimore, MD, USA, in 2019.  Before joining Columbia, he was a research assistant at Carnegie Mellon Electricity Industry Center, Carnegie Mellon University, Pittsburgh, PA, USA. His research interests include power system economic and energy storage.
 <br />
 <br />
 
