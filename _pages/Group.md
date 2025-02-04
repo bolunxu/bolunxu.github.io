@@ -7,47 +7,28 @@ classes: wide
 
 #### PostDocs
 
-<img style="float: left; vertical-align: top;  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/ming.jpeg" width="165px" >
+<div style="display: flex; align-items: flex-start;">
+  <img style="margin-right: 10px;" src="/assets/images/ming.jpeg" width="165px">
+  <p>
+    <a href="https://yiminghit.github.io/"><strong>Ming Yi</strong></a> is a postdoctoral research scientist in Data Science Institute at Columbia University. He received his Ph.D. degree in Electrical Engineering from Rensselaer Polytechnic Institute in 2022. He was an intern at the Argonne National Laboratory. He received a M.S. degree in Control Science and Engineering from the Harbin Institute of Technology in 2018 and a B.E. degree in Automation from Harbin Engineering University in 2016. His current research focuses on machine learning, energy storage, power system economics, and resilience.
+  </p>
+</div>
 
-[**Ming Yi**](https://yiminghit.github.io/) is a postdoctoral research scientist in Data Science Institute at Columbia University. He received his Ph.D. degree in Electrical Engineering from Rensselaer Polytechnic Institute in 2022. He was a intern at the Argonne National Laboratory. He received a M.S. degree in Control Science and Engineering from the Harbin Institute of Technology in 2018 and a B.E. degree in Automation from Harbin Engineering University in 2016. His current research focuses on machine learning, energy storage,  power system economics and resilience.
-<br />
-<br />
-
-<img style="float: left; vertical-align: top;  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/ning.jpeg" width="165px" >
-
-[**Ning Qi**](https://thuqining.github.io/) is a postdoctoral research scientist in Earth and Environmental Engineering at Columbia University. He received his Ph.D. degree in Electrical Engineering from Tsinghua University in 2023. Before joining Columbia, he was the postdoc at Digital Power System (DPS) lab at Department of Electrical Engineering, Tsinghua University. He was a visiting scholar at Technical University of Denmark in 2022. He received a B.E. degree in Electrical Engineering from Tianjin University in 2018. His current research focuses on data-driven modeling, optimization under uncertainty and market design for generic energy storage.
-<br />
-<br />
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/ning.jpeg" width="165px">
+  <p>
+    <a href="https://thuqining.github.io/"><strong>Ning Qi</strong></a> is a postdoctoral research scientist in Earth and Environmental Engineering at Columbia University. He received his Ph.D. degree in Electrical Engineering from Tsinghua University in 2023. Before joining Columbia, he was a postdoc at the Digital Power System (DPS) lab in the Department of Electrical Engineering, Tsinghua University. He was a visiting scholar at Technical University of Denmark in 2022. He received a B.E. degree in Electrical Engineering from Tianjin University in 2018. His current research focuses on data-driven modeling, optimization under uncertainty, and market design for generic energy storage.
+  </p>
+</div>
 
 #### PhD Students
-<!--
-<img style="float: left; vertical-align: top;  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/Nik_Portrait_2.jpg" width="165px" >
 
-[**Ningkun (Nik) Zheng**](https://ningkunzheng.github.io/) received B.S. degree from Zhejiang University, Zhejiang, China in 2018; M.S. degree from Johns Hopkins University, Baltimore, MD, USA, in 2019.  Before joining Columbia, he was a research assistant at Carnegie Mellon Electricity Industry Center, Carnegie Mellon University, Pittsburgh, PA, USA. His research interests include power system economic and energy storage.
-<br />
-<br />
-<br /> -->
-
-
-
-<img style="float: left; vertical-align: top;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/liudong.png" width="165px" >
-
-[**Liudong Chen**](https://liudong-chen.github.io/) received his B.S. and M.S. degrees in Electric Engineering from North China Electric Power University, Beijing, China. Before joining Columbia, he was a research assistant at State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources, North China Electric Power University, Beijing, China. His research interests include energy system economics and optimization and social behavioral modeling.
-<br />
-<br />
-<br />
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/liudong.png" width="165px">
+  <p>
+    <a href="https://liudong-chen.github.io/"><strong>Liudong Chen</strong></a> received his B.S. and M.S. degrees in Electrical Engineering from North China Electric Power University, Beijing, China. Before joining Columbia, he was a research assistant at the State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources, North China Electric Power University, Beijing, China. His research interests include energy system economics and optimization and social behavioral modeling.
+  </p>
+</div>
 
 <img style="float: left; vertical-align: top;  margin-top: 0px;
   margin-bottom: 10px;
