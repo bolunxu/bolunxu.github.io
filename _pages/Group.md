@@ -54,7 +54,7 @@ classes: wide
 <div style="display: flex; align-items: flex-start; margin-top: 20px;">
   <img style="margin-right: 10px;" src="/assets/images/yousuf.jpeg" width="165px">
   <p>
-    <strong>Yousuf Baker</strong> received his B.Sc in Electrical Engineering from Boston University in 2021 and his M.S. degree in Electrical Engineering from Columbia University in 2022. Prior to returning for his PhD, Yousuf acted as Project Lead of a research team for the UAE government and was a research assistant with the Bolun Xu Group. His research is focused on power system economics and on the intersection of optimization, controls, and statistical learning methods for high-renewable energy systems.
+    <strong>Yousuf Baker</strong> received his B.Sc in Electrical Engineering from Boston University in 2021 and his M.S. degree in Electrical Engineering from Columbia University in 2022. Prior to returning for his PhD, Yousuf acted as Project Lead of a research team at the Dubai Future Labs and was a research assistant with the Bolun Xu Group. His focus is on power system economics and on the intersection of optimization, controls, and statistical learning methods for high-renewable energy systems.
   </p>
 </div>
 
@@ -104,6 +104,8 @@ classes: wide
 **Xueyuan Cui**, The University of Hong Kong
 
 **Zhiyi Zhou**, Xi'an Jiaotong University
+
+**Wenting Ma**, Tsinghua University
 
 <br />
 
