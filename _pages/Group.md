@@ -95,6 +95,8 @@ classes: wide
 
 **Umar Salman** (MS, Earth and Environmental Engineering, 2023), University of Connecticut (PhD student)
 
+**Jiajun Han** (MS, Electrical Engineering, 2023), University of Michigan Ann Arbor (PhD student)
+
 **Joshua Jaworski** (MS, Electrical Engineering, 2022), First Quantum Minerals
 
 **Steven Liu** (BS, Computer Science, 2022), Balyasny Asset Management

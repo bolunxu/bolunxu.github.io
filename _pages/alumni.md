@@ -54,9 +54,20 @@ classes: wide
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
+  margin-left: 0px;" src="/assets/images/jiajun.jpg" width="165px" >
+
+**Jiajun Han** was an Electrical Engineering M.Sc. student at Columbia University. He received his B.S. degree in Electrical Engineering  from North China Electric Power University with a focus on power systems and grids.
+<br />
+<br />
+<br />
+<br />
+
+<img style="float: left;  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-right: 10px;
   margin-left: 0px;" src="/assets/images/joshua.jpg" width="165px" >
 
-[**Joshua Jaworski**](https://www.linkedin.com/in/jjjaworski/) is an Electrical Engineering M.Sc. student at Columbia University. He received his B.Sc. degree in Mechanical Engineering from the University of Washington, Seattle, U.S. in 2017. Before joining the M.Sc. program at Columbia, he was the lead Process Engineer at First Quantum Minerals’ power station, port and copper concentrate filtration plant complex in Panama.
+[**Joshua Jaworski**](https://www.linkedin.com/in/jjjaworski/) was an Electrical Engineering M.Sc. student at Columbia University. He received his B.Sc. degree in Mechanical Engineering from the University of Washington, Seattle, U.S. in 2017. Before joining the M.Sc. program at Columbia, he was the lead Process Engineer at First Quantum Minerals’ power station, port and copper concentrate filtration plant complex in Panama.
 <br />
 <br />
 <br />
