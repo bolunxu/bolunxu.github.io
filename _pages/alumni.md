@@ -95,28 +95,28 @@ classes: wide
   </p>
 </div>
 
-<img style="float: left;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/xueyuan.jpeg" width="165px" >
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/xueyuan.jpeg" width="165px">
+  <p>
+    <strong>Xueyuan Cui</strong> was a visiting student from The University of Hong Kong from February 2024 to August 2024.
+    He received his B.E. and M.S. degrees in Electrical Engineering from
+    Zhejiang University in 2019 and 2022, respectively. He is now pursuing
+    his Ph.D. degree at The University of Hong Kong. Before visiting
+    Columbia, he was a visiting student at University of MONS, Belgium.
+    His research interests include data-driven modeling and flexibility
+    analysis of building energy systems." Please let me know if any
+    problems.
+  </p>
+</div>
 
-**Xueyuan Cui** was a visiting student from The University of Hong Kong from February 2024 to August 2024.
-He received his B.E. and M.S. degrees in Electrical Engineering from
-Zhejiang University in 2019 and 2022, respectively. He is now pursuing
-his Ph.D. degree at The University of Hong Kong. Before visiting
-Columbia, he was a visiting student at University of MONS, Belgium.
-His research interests include data-driven modeling and flexibility
-analysis of building energy systems." Please let me know if any
-problems.
-<br />
-<br />
-<br />
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/zhiyi.jpg" width="165px">
+  <p>
+    <strong>Zhiyi Zhou</strong> was a visiting student from Xi'an Jiaotong University from Auguest 2023 to February 2024.
+    She received her B.E. in Electrical Engineering from
+    Tsinghua University University in 2021. Her research interest is in distributed control of microgrids, applying game theory in power systems, and electricity markets.
+    problems.
+  </p>
+</div>
 
-<img style="float: left;  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/assets/images/zhiyi.jpg" width="165px" >
 
-**Zhiyi Zhou** was a visiting student from Xi'an Jiaotong University from Auguest 2023 to February 2024.
-She received her B.E. in Electrical Engineering from
-Tsinghua University University in 2021. Her research interest is in distributed control of microgrids, applying game theory in power systems, and electricity markets.
