@@ -75,7 +75,7 @@ classes: wide
 #### Master Research Students
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px;">
-  <img style="margin-right: 10px;" src="/assets/images/prisca.jpg" width="165px">
+  <img style="margin-right: 10px;" src="/assets/images/prisca_chang.jpg" width="165px">
   <p>
     <strong>Prisca Chang</strong> is a master's student in Data Science at Columbia University, with a background in management and data science from National Tsing Hua University. Her work integrates statistical learning and machine learning for real-world applications in energy systems and market analytics. At Columbia, she focuses on electricity price forecasting and arbitrage optimization, contributing to the development and evaluation of the ArbiCharge model. Her broader interests include predictive modeling, time-series analysis, and the intersection of AI with sustainability and energy innovation.
   </p>
