@@ -88,6 +88,13 @@ classes: wide
 
 #### Visitors
 
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/yuxin.jpg" width="165px">
+  <p>
+    <strong>Yuxin Ma</strong> is a visiting student in Earth and Environmental Engineering at Columbia University. She received her B.S. degree in Electrical Engineering from Tsinghua University in 2021, where she is now pursuing her Ph.D. degree. Her research interests include optimal frequency control of power systems and optimal operation of energy storage systems.
+  </p>
+</div>
+
 <img style="float: left;  margin-top: 0px;
   margin-bottom: 10px;
   margin-right: 10px;
