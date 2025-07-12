@@ -65,6 +65,31 @@ classes: wide
   </p>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/alice.jpg" width="165px">
+  <p>
+    <strong>Alice Foster</strong> received her B.A. in Applied Mathematics from Brown University in 2021. Before joining Columbia University, she worked as a data analyst at EDP Renewables, where she monitored the performance of a wind and solar fleet. Alice is interested in grid resiliency to extreme weather, optimal infrastructure planning and control, and geospatial analysis.
+  </p>
+</div>
+
+#### Master Research Students
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/prisca.jpg" width="165px">
+  <p>
+    <strong>Prisca Chang</strong> is a master's student in Data Science at Columbia University, with a background in management and data science from National Tsing Hua University. Her work integrates statistical learning and machine learning for real-world applications in energy systems and market analytics. At Columbia, she focuses on electricity price forecasting and arbitrage optimization, contributing to the development and evaluation of the ArbiCharge model. Her broader interests include predictive modeling, time-series analysis, and the intersection of AI with sustainability and energy innovation.
+  </p>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <img style="margin-right: 10px;" src="/assets/images/justin.png" width="165px">
+  <p>
+    <strong>Ruonan (Pina) Pi</strong> received her B.E. degree in Safety Engineering from China University of Mining and Technology (Beijing), with a minor in Economics from Peking University. She is currently pursuing her M.S. in Earth and Environmental Engineering at Columbia University. Her research focuses on energy system optimization, industrial decarbonization, and machine learning for sustainable operations. She previously interned at Schneider Electric, where she worked on carbon neutrality consulting and energy efficiency solutions. Her broader interests include AI-driven energy modeling, low-carbon transitions, and sustainable industrial systems.
+  </p>
+</div>
+
+
+
 #### Undergraduate Research Students
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px;">
@@ -74,14 +99,14 @@ classes: wide
   </p>
 </div>
 
-#### Visitors
+<!-- #### Visitors
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px;">
   <img style="margin-right: 10px;" src="/assets/images/yuxin.jpg" width="165px">
   <p>
     <strong>Yuxin Ma</strong> is a visiting student in Earth and Environmental Engineering at Columbia University. She received her B.S. degree in Electrical Engineering from Tsinghua University in 2021, where she is now pursuing her Ph.D. degree. Her research interests include optimal frequency control of power systems and optimal operation of energy storage systems.
   </p>
-</div>
+</div> -->
 
 
 
@@ -103,6 +128,8 @@ classes: wide
 
 
 #### Past Visitors
+**Yuexin Ma**, Tsinghua University
+
 **Xueyuan Cui**, The University of Hong Kong
 
 **Zhiyi Zhou**, Xi'an Jiaotong University
