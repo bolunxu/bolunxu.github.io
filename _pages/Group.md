@@ -82,7 +82,7 @@ classes: wide
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px;">
-  <img style="margin-right: 10px;" src="/assets/images/justin.png" width="165px">
+  <img style="margin-right: 10px;" src="/assets/images/pina.jpg" width="165px">
   <p>
     <strong>Ruonan (Pina) Pi</strong> received her B.E. degree in Safety Engineering from China University of Mining and Technology (Beijing), with a minor in Economics from Peking University. She is currently pursuing her M.S. in Earth and Environmental Engineering at Columbia University. Her research focuses on energy system optimization, industrial decarbonization, and machine learning for sustainable operations. She previously interned at Schneider Electric, where she worked on carbon neutrality consulting and energy efficiency solutions. Her broader interests include AI-driven energy modeling, low-carbon transitions, and sustainable industrial systems.
   </p>
