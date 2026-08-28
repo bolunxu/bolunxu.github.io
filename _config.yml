@@ -41,7 +41,7 @@ markdown: kramdown
 # permalink: /:categories/:title/
 # paginate: 3 # amount of posts to show
 # paginate_path: /page:num/
-# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 ####
 # collections:
@@ -55,16 +55,16 @@ include:
   - _pages
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - assets/images/original_size/   # full-resolution masters, not served
+  - README.md
 
 # Plugins (previously gems:)
 plugins:

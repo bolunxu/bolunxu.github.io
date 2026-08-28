@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Energy System Ecnomics and Optimization - Bolun Xu</title>
+<!-- begin _includes/seo.html --><title>Energy System Economics and Optimization - Bolun Xu</title>
 <meta name="description" content="Bolun Xu is an Assistant Professor of Earth and Environmental Engineering at Columbia University.">
 
 
@@ -20,8 +20,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Bolun Xu">
-<meta property="og:title" content="Energy System Ecnomics and Optimization">
-<meta property="og:url" content="http://localhost:4000/courses/eaee4220/">
+<meta property="og:title" content="Energy System Economics and Optimization">
+<meta property="og:url" content="/courses/eaee4220/">
 
 
   <meta property="og:description" content="Bolun Xu is an Assistant Professor of Earth and Environmental Engineering at Columbia University.">
@@ -37,7 +37,7 @@
 
 
 
-<link rel="canonical" href="http://localhost:4000/courses/eaee4220/">
+<link rel="canonical" href="/courses/eaee4220/">
 
 
 
@@ -48,7 +48,7 @@
     
       "@type": "Person",
       "name": null,
-      "url": "http://localhost:4000/"
+      "url": "/"
     
   }
 </script>
@@ -113,13 +113,13 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/teach/">Teaching</a>
-            </li><li class="masthead__menu-item">
               <a href="/group/">Group</a>
             </li><li class="masthead__menu-item">
-              <a href="/join/">Join</a>
+              <a href="/teach/">Teaching</a>
             </li><li class="masthead__menu-item">
               <a href="/codes/">Codes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/join/">Join</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -148,7 +148,7 @@
 
   
     <div class="author__avatar">
-      <a href="http://localhost:4000/">
+      <a href="/">
         <img src="/assets/images/Xu_portrait.jpg" alt="Bolun Xu" itemprop="image" class="u-photo">
       </a>
     </div>
@@ -156,7 +156,7 @@
 
   <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
-      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Bolun Xu</a>
+      <a class="u-url" rel="me" href="/" itemprop="url">Bolun Xu</a>
     </h3>
     
       <div class="author__bio p-note" itemprop="description">
@@ -250,7 +250,7 @@
 
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Energy System Ecnomics and Optimization">
+    <meta itemprop="headline" content="Energy System Economics and Optimization">
     
     
     
@@ -259,7 +259,7 @@
       
         <header>
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="http://localhost:4000/courses/eaee4220/" class="u-url" itemprop="url">Energy System Ecnomics and Optimization
+            <a href="/courses/eaee4220/" class="u-url" itemprop="url">Energy System Economics and Optimization
 </a>
           </h1>
           
@@ -270,7 +270,116 @@
 
       <section class="page__content e-content" itemprop="text">
         
-        <p><a href="/assets/courses/eaee4220/EAEE4220_Syllabus.pdf">Syllabus</a> from Fall 2021.</p>
+        <div class="course-meta">
+  <div><span class="course-meta__label">Course number</span>EEEL E4220 (previously EAEE E4220)</div>
+  <div><span class="course-meta__label">Term</span>Fall, annually</div>
+  <div><span class="course-meta__label">Level</span>Graduate and senior undergraduate</div>
+  <div><span class="course-meta__label">Tools</span>Python, Jupyter, CVXPY</div>
+</div>
+
+<p>How much does electricity cost, who decides, and why does the answer change every five minutes?
+This course answers those questions by building up the optimization problems that sit underneath
+wholesale electricity markets. Students learn to formulate power system operation and investment
+decisions as optimization problems, solve them with modern solvers, and read the prices that come
+out of them as economic signals.</p>
+
+<p>The course moves from microeconomic fundamentals through economic dispatch, unit commitment, and
+network-constrained markets, and closes on the questions that dominate the field today: how
+renewables and storage change the shape of the market, and how a participant should bid into it.</p>
+
+<h4 id="what-you-will-learn">What you will learn</h4>
+
+<p>By the end of the course, students are able to:</p>
+
+<ul>
+  <li>Define and discuss the major problems in power system economics</li>
+  <li>Formulate these problems as optimization problems, and solve simple ones by hand</li>
+  <li>Use optimization packages to solve realistically sized problems</li>
+  <li>Describe the various types of electricity markets and discuss their purposes</li>
+  <li>Discuss bidding strategies under perfect and imperfect competition</li>
+  <li>Explain and calculate locational marginal prices</li>
+  <li>Explain the economic pros and cons of different energy resources</li>
+  <li>Discuss the factors that drive energy system investment</li>
+</ul>
+
+<h4 id="topics">Topics</h4>
+
+<p><strong>Economic foundations.</strong> Supply and demand, surplus and welfare, market power. How electricity
+differs from other commodities, and why that difference forces a market design.</p>
+
+<p><strong>Market organization and contracts.</strong> How electricity markets are organized, the risks
+participants carry, and the forward contracts and financial instruments used to hedge them.</p>
+
+<p><strong>Optimization and economic dispatch.</strong> Linear programming, duality, and inequality constraints.
+Solution algorithms for economic dispatch, and where the marginal price comes from.</p>
+
+<p><strong>Unit commitment.</strong> Mixed-integer linear programming, start-up and minimum-run constraints, and
+what non-convexity does to pricing.</p>
+
+<p><strong>Networks and nodal pricing.</strong> Introduction to power flow, transmission constraints, congestion,
+security-constrained economic dispatch, locational marginal prices, and financial transmission
+rights.</p>
+
+<p><strong>Participation and equilibrium.</strong> Bidding into the market as a generator, load, or storage
+operator. Equilibrium models of strategic behavior.</p>
+
+<p><strong>Operations, ancillary services, renewables, and storage.</strong> Reserves and ancillary service
+markets, and how variable renewables and energy storage reshape both operations and prices.</p>
+
+<h4 id="course-projects">Course projects</h4>
+
+<p>Students work in small teams on a term project, either self-defined or chosen from a set of
+problems built on real system data. Recent project topics:</p>
+
+<ul>
+  <li><strong>Wind integration in ISO New England.</strong> Take the position of a policy maker and study how to
+best integrate up to 12,000 MW of wind capacity, using an eight-zone ISO-NE model with hourly
+wind capacity factors and demand.</li>
+  <li><strong>Peak shaving on the Columbia campus.</strong> Columbia buys electricity under the ConEdison SC9
+Rate II tariff, where the demand charge is set by the highest two consecutive 15-minute
+intervals. Forecast campus demand and design a strategy to shave that peak.</li>
+  <li><strong>Energy portfolio management for a sustainable campus.</strong> Assemble a day-ahead supply portfolio
+from at-risk wind, baseload, peak-load, and load-following contracts, and manage the resulting
+risk exposure.</li>
+  <li><strong>Wind farm sizing and siting on the IEEE-14 system.</strong> Act as a system planner deciding where
+and how much wind to build under transmission constraints and multiple demand and wind
+scenarios.</li>
+</ul>
+
+<p>Self-defined topics are strongly encouraged, and need only be related to energy systems and use
+the economic and optimization methods developed in the course.</p>
+
+<h4 id="market-experiments">Market experiments</h4>
+
+<p>Several class sessions are run as live market experiments: students bid against each other in a
+simplified electricity market and see the clearing outcome, the prices, and their own profit.
+The experiments make market power, capacity withholding, and equilibrium behavior something
+students experience rather than only derive.</p>
+
+<h4 id="prerequisites">Prerequisites</h4>
+
+<p>Linear algebra and differential equations (MATH 2030 or APAM 2101), and basic programming
+background (ENGI 1006E). No prior power systems coursework is assumed.</p>
+
+<h4 id="assessment">Assessment</h4>
+
+<p>Homework 40%, midterm 30%, final project 20%, and participation in class quizzes and market
+experiments 10%. Homework is completed in Jupyter notebooks; optimization is required from the
+midpoint of the course onward. Projects are graded on presentation, problem formulation, code
+quality, and analysis of results.</p>
+
+<h4 id="textbooks">Textbooks</h4>
+
+<p>Required: Kirschen and Strbac, <em>Fundamentals of Power System Economics</em>, 2nd edition, Wiley, 2018.</p>
+
+<p>Supplemental: Masters, <em>Renewable and Efficient Electric Power Systems</em>, Wiley, 2004; Conejo and
+Baringo, <em>Power System Operations</em>, Springer, 2018. All are available online through the Columbia
+Library.</p>
+
+<p class="page__actions">
+  <a class="btn btn--primary" href="/assets/courses/eaee4220/EEEL4220_Syllabus_Fall2025.pdf">Syllabus (Fall 2025)</a>
+  <a class="btn btn--inverse" href="/teach/">All courses</a>
+</p>
 
         
       </section>
@@ -316,9 +425,9 @@
   </ul>
 </div> -->
 
-<!-- <div class="page__footer-copyright">&copy; 2022 Bolun Xu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div> -->
+<!-- <div class="page__footer-copyright">&copy; 2026 Bolun Xu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div> -->
 
-<div class="page__footer-copyright">&copy; 2022 Bolun Xu. </div>
+<div class="page__footer-copyright">&copy; 2026 Bolun Xu. </div>
 
       </footer>
     </div>

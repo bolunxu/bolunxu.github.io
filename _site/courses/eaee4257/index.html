@@ -21,7 +21,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Bolun Xu">
 <meta property="og:title" content="Environmental Data Analysis and Modeling">
-<meta property="og:url" content="http://localhost:4000/courses/eaee4257/">
+<meta property="og:url" content="/courses/eaee4257/">
 
 
   <meta property="og:description" content="Bolun Xu is an Assistant Professor of Earth and Environmental Engineering at Columbia University.">
@@ -37,7 +37,7 @@
 
 
 
-<link rel="canonical" href="http://localhost:4000/courses/eaee4257/">
+<link rel="canonical" href="/courses/eaee4257/">
 
 
 
@@ -48,7 +48,7 @@
     
       "@type": "Person",
       "name": null,
-      "url": "http://localhost:4000/"
+      "url": "/"
     
   }
 </script>
@@ -113,13 +113,13 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/teach/">Teaching</a>
-            </li><li class="masthead__menu-item">
               <a href="/group/">Group</a>
             </li><li class="masthead__menu-item">
-              <a href="/join/">Join</a>
+              <a href="/teach/">Teaching</a>
             </li><li class="masthead__menu-item">
               <a href="/codes/">Codes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/join/">Join</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -148,7 +148,7 @@
 
   
     <div class="author__avatar">
-      <a href="http://localhost:4000/">
+      <a href="/">
         <img src="/assets/images/Xu_portrait.jpg" alt="Bolun Xu" itemprop="image" class="u-photo">
       </a>
     </div>
@@ -156,7 +156,7 @@
 
   <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
-      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Bolun Xu</a>
+      <a class="u-url" rel="me" href="/" itemprop="url">Bolun Xu</a>
     </h3>
     
       <div class="author__bio p-note" itemprop="description">
@@ -259,7 +259,7 @@
       
         <header>
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="http://localhost:4000/courses/eaee4257/" class="u-url" itemprop="url">Environmental Data Analysis and Modeling
+            <a href="/courses/eaee4257/" class="u-url" itemprop="url">Environmental Data Analysis and Modeling
 </a>
           </h1>
           
@@ -270,7 +270,102 @@
 
       <section class="page__content e-content" itemprop="text">
         
-        <p><a href="/assets/courses/eaee4257/EAEE4257_Syllabus.pdf">Syllabus</a> from Spring 2022.</p>
+        <div class="course-meta">
+  <div><span class="course-meta__label">Course number</span>EAEE E4257</div>
+  <div><span class="course-meta__label">Term</span>Spring, annually</div>
+  <div><span class="course-meta__label">Level</span>Graduate and senior undergraduate</div>
+  <div><span class="course-meta__label">Tools</span>R, tidyverse, Jupyter</div>
+</div>
+
+<p>Environmental data are messy in specific, structured ways: observations are correlated in space,
+they drift and jump in time, and the interesting signal is usually the trend rather than the mean.
+This course teaches the statistical and machine learning methods that handle those properties, and
+teaches them as ideas rather than as a catalogue of routines.</p>
+
+<p>The emphasis throughout is on conceptual understanding. Students learn not only how to fit a model
+but how to check it, how to choose between models, and how to articulate what a model cannot tell
+them. Every method is paired with an in-class coding exercise on a real environmental dataset.</p>
+
+<h4 id="what-you-will-learn">What you will learn</h4>
+
+<ul>
+  <li>How to think about statistical data and their analysis in the context of typical environmental
+problems</li>
+  <li>Key techniques in statistical modeling and machine learning, their underlying ideas, where they
+apply, and how to use them</li>
+  <li>How to build, select, and check statistical models using modern computational techniques</li>
+  <li>How to address the core challenges of environmental data: spatial correlation, structured
+time-series behavior, changepoints, and trends</li>
+</ul>
+
+<p>Above all, students learn to think critically about environmental data and models, and to discuss
+the limitations of the models they encounter in the wild.</p>
+
+<h4 id="topics">Topics</h4>
+
+<p><strong>Foundations.</strong> Model estimation, multivariate distributions, exploratory analysis and
+visualization of environmental data.</p>
+
+<p><strong>Regression.</strong> Simple and multiple linear regression, weighted least squares, and diagnostics.</p>
+
+<p><strong>Trends and change detection.</strong> Autoregressive models, rank-sum tests, t-tests and the bootstrap,
+and the Mann-Kendall test for monotonic trend.</p>
+
+<p><strong>Flexible and generalized models.</strong> Local regression, generalized linear models.</p>
+
+<p><strong>Dimension reduction and learning.</strong> LASSO and principal component analysis, classification with
+support vector machines, and clustering.</p>
+
+<p><strong>Ensemble and neural methods.</strong> Boosting and XGBoost; neural networks through to large language
+models, and what they do and do not add over the classical toolkit.</p>
+
+<p><strong>Spatial statistics.</strong> Trend surface estimation, variograms, and kriging, including its
+relationship to Gaussian process regression.</p>
+
+<h4 id="computing">Computing</h4>
+
+<p>All computation is done in R using Jupyter notebooks, leaning on the tidyverse package ecosystem.
+Prior R experience is not expected; the first assignment is a guided R tutorial. The choice of R
+is deliberate: the breadth of statistical methods already implemented, and the readability of
+tidyverse code, give students the most leverage for the time invested.</p>
+
+<p>Each topic comes with an in-class notebook exercise worked through together, covering datasets
+such as global temperature records, air quality measurements, aquifer surveys, and New York City
+electricity demand and prices.</p>
+
+<h4 id="prerequisites">Prerequisites</h4>
+
+<p>A prior statistics course (STAT 4001, IEOR 3658, or IEOR 4150) and basic programming background
+(ENGI 1006). Matrix and vector algebra, discrete and continuous probability distributions, sample
+estimates, correlation and covariance are assumed and are not re-taught. A diagnostic assignment
+is posted before the first class so students can assess their own background.</p>
+
+<h4 id="assessment">Assessment</h4>
+
+<p>Computational homework carries most of the grade, with two short in-class quizzes and
+participation making up the remainder. Homework is submitted as a Jupyter notebook together with
+its rendered output; students are asked to explain how they arrived at each solution, not only to
+report it.</p>
+
+<h4 id="use-of-ai-tools">Use of AI tools</h4>
+
+<p>Students may use large language models and coding assistants to help with syntax, debugging, and
+exploring alternative approaches. The standard is that students remain fully responsible for
+everything they submit: they must understand, verify, and be able to defend any code, result, or
+explanation they hand in. Submitting unverified AI output is treated as academic misconduct.</p>
+
+<h4 id="reference-textbooks">Reference textbooks</h4>
+
+<ul>
+  <li>James, Witten, Hastie, and Tibshirani, <a href="https://www.statlearning.com/"><em>An Introduction to Statistical Learning</em></a> (freely available)</li>
+  <li>Helsel and Hirsch, <a href="https://pubs.usgs.gov/tm/04/a03/tm4a3.pdf"><em>Statistical Methods in Water Resources</em></a>, U.S. Geological Survey (freely available)</li>
+  <li>Hengl, <a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC38153"><em>A Practical Guide to Geostatistical Mapping</em></a> (freely available)</li>
+</ul>
+
+<p class="page__actions">
+  <a class="btn btn--primary" href="/assets/courses/eaee4257/EAEE4257_Syllabus_Spring2026.pdf">Syllabus (Spring 2026)</a>
+  <a class="btn btn--inverse" href="/teach/">All courses</a>
+</p>
 
         
       </section>
@@ -316,9 +411,9 @@
   </ul>
 </div> -->
 
-<!-- <div class="page__footer-copyright">&copy; 2022 Bolun Xu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div> -->
+<!-- <div class="page__footer-copyright">&copy; 2026 Bolun Xu. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div> -->
 
-<div class="page__footer-copyright">&copy; 2022 Bolun Xu. </div>
+<div class="page__footer-copyright">&copy; 2026 Bolun Xu. </div>
 
       </footer>
     </div>
