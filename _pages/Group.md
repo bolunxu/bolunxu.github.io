@@ -67,6 +67,14 @@ classes: wide
   </p>
 </div>
 
+#### Visitors
+
+<div class="person">
+  <img class="person__photo" src="/assets/images/ben.jpeg" alt="Ben Melcher">
+  <p class="person__bio">
+    <strong>Ben Melcher</strong> received his B.Sc. in Industrial Engineering at Karlsruhe Insitute of Technology and is pursuing his M.Sc. in Management, Technology and Economics at ETH Zurich. He is currently conducting his master’s thesis at Columbia University in collabration with Outlast Power, focusing control and optimization of distributed battery energy storage.  </p>
+</div>
+
 #### Alumni
 
 [**Liudong Chen**](https://liudong-chen.github.io/) (PhD, Earth and Environmental Engineering, 2026), Harvard University (postdoc)
