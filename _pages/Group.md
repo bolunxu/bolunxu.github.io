@@ -63,7 +63,7 @@ classes: wide
 <div class="person">
   <img class="person__photo" src="/assets/images/beini.jpg" alt="Beini Lu">
   <p class="person__bio">
-    <strong>Beini Lu</strong> received her B.Eng. degree in New Energy Science and Engineering and a dual B.Mgt. degree in Accounting from China University of Petroleum (Beijing). She is currently pursuing her M.S. degree in Earth and Environmental Engineering at Columbia University. Before joining Columbia, she worked on data-driven modeling and optimization for hydrogen production and biogas conversion systems. Her research focuses on renewable-powered electrochemical systems for low-carbon fuel production, with broader interests in sustainable fuels, energy system optimization, and machine learning for clean energy systems.
+    <strong>Beini Lu</strong> received her B.Eng. degree in New Energy Science and Engineering and a dual B.Mgt. degree in Accounting from China University of Petroleum (Beijing). She is currently pursuing her M.S. degree in Earth and Environmental Engineering at Columbia University. Her research focuses on renewable-powered electrochemical systems for low-carbon fuel production.
   </p>
 </div>
 
