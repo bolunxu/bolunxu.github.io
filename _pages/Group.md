@@ -54,7 +54,7 @@ classes: wide
 <div class="person">
   <img class="person__photo" src="/assets/images/ambre.jpg" alt="Ambre Decilap">
   <p class="person__bio">
-    <strong>Ambre Decilap</strong> received her B.S. degree in Mechanical Engineering from MIT in 2023. Before joining the PhD program at Columbia University, she worked as a mineral processing engineer at Sublime Systems, where she designed, installed, tested, and troubleshot machinery in a pilot factory for low-carbon cement. Ambre's research interests include renewable energy, industrial decarbonization, power grids, climate justice, and combating scarcity in the food-energy-water nexus.
+    <strong>Ambre Decilap</strong> received her B.S. degree in Mechanical Engineering from MIT in 2023. Before joining Columbia University, she worked as a mineral processing engineer at Sublime Systems, where she designed, installed, tested, and troubleshot machinery in a pilot factory for low-carbon cement. Ambre's research interests include renewable energy, industrial decarbonization, power grids, climate justice, and combating scarcity in the food-energy-water nexus.
   </p>
 </div>
 
