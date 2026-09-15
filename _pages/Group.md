@@ -75,6 +75,20 @@ classes: wide
     <strong>Ben Melcher</strong> received his B.Sc. in Industrial Engineering at Karlsruhe Insitute of Technology and is pursuing his M.Sc. in Management, Technology and Economics at ETH Zurich. He is currently conducting his master’s thesis at Columbia University in collabration with Outlast Power, focusing control and optimization of distributed battery energy storage.  </p>
 </div>
 
+<div class="person">
+  <img class="person__photo" src="/assets/images/raphaelle.jpg" alt="Raphaelle Souquet">
+  <p class="person__bio">
+    <strong>Raphaëlle Souquet</strong> is pursuing her M.Sc. in Energy Science and Technology at Ecole Polytechnique Fédérale de Lausanne (EPFL). She is currently conducting her master's thesis at Columbia University, focusing on risk management for battery energy storage in ERCOT electricity markets.
+  </p>
+</div>
+
+<div class="person">
+  <img class="person__photo" src="/assets/images/victoria.jpg" alt="Victoria Arduini">
+  <p class="person__bio">
+    <strong>Victoria Arduini</strong> received her B.Sc. in Computer Science from Ecole Polytechnique Fédérale de Lausanne (EPFL) and is currently pursuing an M.Sc. in Data Science with a minor in Financial Engineering, also at EPFL. She is now conducting her master's thesis at Columbia University focusing on hedging tail risks in forward electricity contracts.
+  </p>
+</div>
+
 #### Alumni
 
 [**Liudong Chen**](https://liudong-chen.github.io/) (PhD, Earth and Environmental Engineering, 2026), Harvard University (postdoc)
