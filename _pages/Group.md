@@ -14,6 +14,13 @@ classes: wide
   </p>
 </div>
 
+<div class="person">
+  <img class="person__photo" src="/assets/images/ruike.png" alt="Ruike Lyu">
+  <p class="person__bio">
+    <a href="https://rick10119.github.io/"><strong>Ruike Lyu</strong></a> is a postdoctoral research scientist at Columbia University. He received his B.E. and Ph.D. degrees in Electrical Engineering from Tsinghua University, Beijing, China, where he was advised by Prof. Chongqing Kang. He was one of two recipients of the Best Presentation Award at the 2025 IEEE PES Grid Edge Ph.D. Dissertation Challenge. From 2025 to 2026, he was a one-year visiting research collaborator at Princeton University, working with Prof. Jesse Jenkins. Before joining Columbia, he was a research associate at the Hong Kong Polytechnic University. His research focuses on the interaction between power and energy systems and flexible industrial demand.
+  </p>
+</div>
+
 #### PhD Students
 
 <div class="person">
